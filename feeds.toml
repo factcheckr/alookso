@@ -168,3 +168,12 @@ titleSelector = "a"
 linkSelector = "a"
 waitUntil = "networkidle"
 onFail = "stale"
+
+[user_limyuna]
+title = "alookso ─ 임유나"
+url = "https://alook.so/users/xZBt7x"
+entrySelector = "div[class='flex-auto mt-2 space-y-2'] h5[class='font-medium text-break']"
+titleSelector = "a"
+linkSelector = "a"
+waitUntil = "networkidle"
+onFail = "stale"
