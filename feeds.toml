@@ -177,3 +177,12 @@ titleSelector = "a"
 linkSelector = "a"
 waitUntil = "networkidle"
 onFail = "stale"
+
+[user_parkjinman]
+title = "alookso ─ 박진만"
+url = "https://alook.so/users/8r9tZb"
+entrySelector = "div[class='flex-auto mt-2 space-y-2'] h5[class='font-medium text-break']"
+titleSelector = "a"
+linkSelector = "a"
+waitUntil = "networkidle"
+onFail = "stale"
