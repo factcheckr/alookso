@@ -142,3 +142,20 @@ linkSelector = "a"
 waitUntil = "networkidle"
 onFail = "stale"
 
+[user_writingmate]
+title = "alookso ─ 김지은"
+url = "https://alook.so/users/bGDtk8"
+entrySelector = "div[class='flex-auto mt-2 space-y-2'] h5[class='font-medium text-break']"
+titleSelector = "a"
+linkSelector = "a"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[user_writingmate]
+title = "alookso ─ 김진웅"
+url = "https://alook.so/users/qKktlq"
+entrySelector = "div[class='flex-auto mt-2 space-y-2'] h5[class='font-medium text-break']"
+titleSelector = "a"
+linkSelector = "a"
+waitUntil = "networkidle"
+onFail = "stale"
