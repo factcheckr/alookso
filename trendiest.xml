@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-10T10:19:34.256Z</updated>
+    <updated>2022-02-10T11:15:15.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[긴 글이라고 좋은 건 아닙니다]]></title>
+        <id>https://alook.so/posts/M9tdRX</id>
+        <link href="https://alook.so/posts/M9tdRX"/>
+        <updated>2022-02-10T11:12:50.249Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tdRX">긴 글이라고 좋은 건 아닙니다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[답글: 진심이 담긴 글이 최고의 글]]></title>
         <id>https://alook.so/posts/RGtz60</id>
@@ -60,33 +67,5 @@
         <link href="https://alook.so/posts/njt49Z"/>
         <updated>2022-02-10T04:19:10.830Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt49Z">저는 이곳에 투자합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멋준 글 감사히 읽었습니다. 🙏]]></title>
-        <id>https://alook.so/posts/q1t244</id>
-        <link href="https://alook.so/posts/q1t244"/>
-        <updated>2022-02-10T10:17:09.740Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t244">멋준 글 감사히 읽었습니다. 🙏</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기후 불안, 여러분은 괜찮으신가요?]]></title>
-        <id>https://alook.so/posts/1Rty1X</id>
-        <link href="https://alook.so/posts/1Rty1X"/>
-        <updated>2022-02-10T08:18:07.890Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rty1X">기후 불안, 여러분은 괜찮으신가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 평균이란 기술통계]]></title>
-        <id>https://alook.so/posts/Yyt8Vk</id>
-        <link href="https://alook.so/posts/Yyt8Vk"/>
-        <updated>2022-02-10T04:19:10.831Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt8Vk">답글: 평균이란 기술통계</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 여론조사를 거부하거나, 정책에 소외되거나]]></title>
-        <id>https://alook.so/posts/potXl4</id>
-        <link href="https://alook.so/posts/potXl4"/>
-        <updated>2022-02-10T04:19:10.832Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potXl4">답글: 여론조사를 거부하거나, 정책에 소외되거나</a>]]></content>
     </entry>
 </feed>
