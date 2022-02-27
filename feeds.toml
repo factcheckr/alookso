@@ -53,6 +53,15 @@ linkSelector = "a"
 waitUntil = "networkidle"
 onFail = "stale"
 
+[user_alooksobrf]
+title = "alookso ─ alookso [.brf]"
+url = "https://alook.so/users/0Btk1l"
+entrySelector = "div[class='flex-auto mt-2 space-y-2'] h5[class='font-medium text-break']"
+titleSelector = "a"
+linkSelector = "a"
+waitUntil = "networkidle"
+onFail = "stale"
+
 [user_hyeseung]
 title = "alookso ─ 정혜승 대표"
 url = "https://alook.so/users/8OgtK8"
