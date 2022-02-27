@@ -16,6 +16,15 @@ linkSelector = "a"
 waitUntil = "networkidle"
 onFail = "stale"
 
+[today]
+title = "alookso ─ 투데이"
+url = "https://alook.so/"
+entrySelector = "div[class='flex-auto mt-2 space-y-2'] h5[class='font-medium text-break']"
+titleSelector = "a"
+linkSelector = "a"
+waitUntil = "networkidle"
+onFail = "stale"
+
 [user_alookso]
 title = "alookso ─ alookso"
 url = "https://alook.so/users/x4WtnB"
