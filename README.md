@@ -2,9 +2,13 @@
   https://factcheckr.github.io/alookso/all.xml
   - 최신 글: https://factcheckr.github.io/alookso/latest.xml
   - 뜨는 글: https://factcheckr.github.io/alookso/trendiest.xml
+  - 투데이: https://factcheckr.github.io/alookso/today.xml
 
   ## User
-  - 얼룩소: https://factcheckr.github.io/alookso/user_alookso.xml
+  - alookso 에디터팀: https://factcheckr.github.io/alookso/user_alookso.xml
+  - alookso 플랫폼팀: https://factcheckr.github.io/alookso/user_alookso-platform.xml
+  - alookso 뉴스못: https://factcheckr.github.io/alookso/user_alookso-newsmot.xml
+  - alookso [.brf]: https://factcheckr.github.io/alookso/user_alookso-brf.xml
   - 정혜승: https://factcheckr.github.io/alookso/user_hyeseung.xml
   - 천관율: https://factcheckr.github.io/alookso/user_gwanyul.xml
   - 윤성원: https://factcheckr.github.io/alookso/user_somewon.xml
