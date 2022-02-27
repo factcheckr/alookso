@@ -34,6 +34,16 @@ linkSelector = "a"
 waitUntil = "networkidle"
 onFail = "stale"
 
+
+[user_alooksonewsmot]
+title = "alookso ─ alookso 뉴스못"
+url = "https://alook.so/users/k6tVXZ"
+entrySelector = "div[class='flex-auto mt-2 space-y-2'] h5[class='font-medium text-break']"
+titleSelector = "a"
+linkSelector = "a"
+waitUntil = "networkidle"
+onFail = "stale"
+
 [user_hyeseung]
 title = "alookso ─ 정혜승 대표"
 url = "https://alook.so/users/8OgtK8"
