@@ -16,16 +16,6 @@ linkSelector = "a"
 waitUntil = "networkidle"
 onFail = "stale"
 
-[today]
-title = "alookso ─ 투데이"
-url = "https://alook.so/"
-entrySelector = "div[class='flex-auto mt-2 space-y-2'] h5[class='font-medium text-break']"
-titleSelector = "div.mb-1.space-y-2 div.text-lg.font-semibold.text-gray-800.break-all.line-clamp-2 a"
-linkSelector = "a"
-contentSelector = "a div.w-48.h-32 img"
-waitUntil = "networkidle"
-onFail = "stale"
-
 [user_alookso]
 title = "alookso ─ alookso 에디터팀"
 url = "https://alook.so/users/x4WtnB"
