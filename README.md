@@ -3,6 +3,7 @@ https://factcheckr.github.io/alookso/all.xml
   - 최신 글: https://factcheckr.github.io/alookso/latest.xml
   - 뜨는 글: https://factcheckr.github.io/alookso/trendiest.xml
   - 투데이: https://factcheckr.github.io/alookso/today.xml
+  - 오리지널: https://factcheckr.github.io/alookso/originals.xml
 
 ## [Original](https://github.com/factcheckr/alookso_original)
 https://factcheckr.github.io/alookso_original/all.xml
