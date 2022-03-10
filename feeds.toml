@@ -8,8 +8,8 @@ waitUntil = "networkidle"
 onFail = "stale"
 
 [trendiest]
-title = "alookso ─ 둘러보기 ─ 뜨는 글"
-url = "https://alook.so/discover"
+title = "alookso ─ 뜨는 글"
+url = "https://alook.so/topics"
 entrySelector = "div.py-8.space-y-4 div.flex.items-center.space-x-4"
 titleSelector = "a"
 linkSelector = "a"
