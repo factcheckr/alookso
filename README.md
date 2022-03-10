@@ -6,12 +6,11 @@ https://factcheckr.github.io/alookso/all.xml
 
 ## [Original](https://github.com/factcheckr/alookso_original)
 https://factcheckr.github.io/alookso_original/all.xml
-- https://factcheckr.github.io/alookso_original/originals.xml
-- https://factcheckr.github.io/alookso_original/alookso-editor.xml
-- https://factcheckr.github.io/alookso_original/alookso-platform.xml
-- https://factcheckr.github.io/alookso_original/alookso-data.xml
-- https://factcheckr.github.io/alookso_original/alookso-newsmot.xml
-- https://factcheckr.github.io/alookso_original/alookso-brf.xml
+  - alookso 에디터팀: https://factcheckr.github.io/alookso_original/alookso.xml
+  - alookso 플랫폼팀: https://factcheckr.github.io/alookso_original/alookso-platform.xml
+  - alookso 데이터팀: https://factcheckr.github.io/alookso_original/alookso-data.xml
+  - alookso 뉴스못: https://factcheckr.github.io/alookso_original/alookso-newsmot.xml
+  - alookso 브리프: https://factcheckr.github.io/alookso_original/alookso-brf.xml
 
 ## [User](https://github.com/factcheckr/alookso_user)
 https://factcheckr.github.io/alookso_user/all.xml
