@@ -16,6 +16,17 @@ linkSelector = "a"
 waitUntil = "networkidle"
 onFail = "stale"
 
+[today]
+title = "alookso ─ 투데이"
+url = "https://alook.so/"
+entrySelector = "div.flex.flex-col.break-words.min-w-0.bg-white"
+titleSelector = "h5[data-qa='post-title'] a"
+linkSelector = "h5[data-qa='post-title'] a"
+contentSelector = "h6 div[data-read-more-target='content']"
+imageSelector = "div.relative.z-0.flex.-space-x-4 a:nth-child(1) img"
+waitUntil = "networkidle"
+onFail = "stale"
+
 [originals]
 title = "alookso ─ 오리지널"
 url = "https://alook.so/originals"
