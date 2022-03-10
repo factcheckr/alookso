@@ -56,6 +56,15 @@ linkSelector = "a"
 waitUntil = "networkidle"
 onFail = "stale"
 
+[user_alookso-data]
+title = "alookso ─ alookso 데이터팀"
+url = "https://alook.so/users/bA6tp1"
+entrySelector = "div[class='flex-auto mt-2 space-y-2'] h5[class='font-medium text-break']"
+titleSelector = "a"
+linkSelector = "a"
+waitUntil = "networkidle"
+onFail = "stale"
+
 [user_alookso-newsmot]
 title = "alookso ─ alookso 뉴스못"
 url = "https://alook.so/users/k6tVXZ"
@@ -66,7 +75,7 @@ waitUntil = "networkidle"
 onFail = "stale"
 
 [user_alookso-brf]
-title = "alookso ─ alookso [.brf]"
+title = "alookso ─ alookso 브리프"
 url = "https://alook.so/users/0Btk1l"
 entrySelector = "div[class='flex-auto mt-2 space-y-2'] h5[class='font-medium text-break']"
 titleSelector = "a"
@@ -140,15 +149,6 @@ onFail = "stale"
 [user_janghyeyeong]
 title = "alookso ─ 장혜영"
 url = "https://alook.so/users/8XGtO0"
-entrySelector = "div[class='flex-auto mt-2 space-y-2'] h5[class='font-medium text-break']"
-titleSelector = "a"
-linkSelector = "a"
-waitUntil = "networkidle"
-onFail = "stale"
-
-[user_datacow]
-title = "alookso ─ 데이터카우"
-url = "https://alook.so/users/bA6tp1"
 entrySelector = "div[class='flex-auto mt-2 space-y-2'] h5[class='font-medium text-break']"
 titleSelector = "a"
 linkSelector = "a"
