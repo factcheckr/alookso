@@ -2,6 +2,7 @@
 https://factcheckr.github.io/alookso/all.xml
   - 최신 글: https://factcheckr.github.io/alookso/latest.xml
   - 뜨는 글: https://factcheckr.github.io/alookso/trendiest.xml
+    - 뜨는 글: https://factcheckr.github.io/alookso/topic.xml
   - 투데이: https://factcheckr.github.io/alookso/today.xml
   - 오리지널: https://factcheckr.github.io/alookso/originals.xml
 
