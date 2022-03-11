@@ -8,11 +8,22 @@ waitUntil = "networkidle"
 onFail = "stale"
 
 [trendiest]
+title = "alookso ─ 둘러보기 ─ 뜨는 글"
+url = "https://alook.so/discover/latest"
+entrySelector = "div.flex.flex-col.break-words.min-w-0.bg-white"
+titleSelector = "h5[data-qa='post-title'] a"
+linkSelector = "h5[data-qa='post-title'] a"
+contentSelector = "h6 div[data-read-more-target='content']"
+imageSelector = "div.relative.z-0.flex.-space-x-4 a:nth-child(1) img"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[topics]
 title = "alookso ─ 뜨는 글"
 url = "https://alook.so/topics"
 entrySelector = "div.flex.flex-col.break-words.min-w-0.bg-white"
 titleSelector = "h5[data-qa='post-title'] a"
-linkSelector = "h5[data-qa='post-title'] a"
+linkSelector = "div.flex-auto.mt-2.space-y-2 > h6 > a:nth-child(2)"
 contentSelector = "h6 div[data-read-more-target='content']"
 imageSelector = "div.relative.z-0.flex.-space-x-4 a:nth-child(1) img"
 waitUntil = "networkidle"
