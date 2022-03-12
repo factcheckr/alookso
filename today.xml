@@ -4,7 +4,7 @@
         <title>alookso ─ 투데이</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 21:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 22:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,9 +12,16 @@
             <link>https://alook.so/posts/RGt8R0</link>
             <guid>https://alook.so/posts/RGt8R0</guid>
             <pubDate>Fri, 11 Mar 2022 06:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="trix-content">
-  <div>박빙 지역은 어느 정도 있었고, 극단적인 결과가 나온 지역은 어느 정도 있었을까? 지난 대선과 어떤 차이가 있을까?</div>
-</div>]]></content:encoded>
+            <content:encoded><![CDATA[<span>19대와 20대 대선 개표 결과를 읍면동별로 보면 위의 그림과 같습니다. 3000개가 넘는 읍면동 각각에 1위 후보 정당의 색깔을 칠했습니다. 2위와의 득표율 차이가 클 수록 색깔이 진하게 그렸습니다.
+<br>&nbsp;
+<br>선거 결과를 반영하듯, 붉은색이 많아졌습니다. 수도권이 궁금하신 분들은 이 글 맨 아래의 링크에서 직접 조작해보실 수 있습니다.
+<br>&nbsp;
+<br>지도에서 보이는 대체적인 차이를 히스토그램으로 그려보고 싶었습니다. 다음과 같은 질문을 던져봤습니다.&nbsp;박빙 지역은 어느 정도 있었고, 극단적인 결과가 나온 지역은 어느 정도 있었을까? 지난 대선과 어떤 차이가 있을까?</span><br>
+<br>
+<span># 데이터와 그래프
+<br>선관위 홈페이지에 올라온 개표 결과를 크롤링했습니다. 지난 대선 결과도 5년전에 그렇게 모았던 것으로 기억합니다.</span><br>
+<br>
+<span>19대 대선의 경우 각각의 읍면동별로 [홍준표+유승민] 후보의 득표율을 합산한 후 [문재인] 후보의 득표율을 뺐습니다. (현재 기준) 국민의 힘에 좀 더 표를 많이 준 지역은 아래 그래프에서...</span>]]></content:encoded>
             <enclosure url="https://alook.so/assets/icons/icon-solid-user-7eac5bc0e82de02349582eac9ce9eb63104851bcb1a099b6985ce52d281b575f.svg" length="0" type="image/svg"/>
         </item>
     </channel>
