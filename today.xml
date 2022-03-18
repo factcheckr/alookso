@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://alook.so/</id>
-    <title>alookso ─ 투데이</title>
-    <updated>2022-03-18T19:16:28.641Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>alookso ─ 투데이</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 18 Mar 2022 19:19:29 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 당선인께]]></title>
+            <link>https://alook.so/posts/KmtDqB9</link>
+            <guid>https://alook.so/posts/KmtDqB9</guid>
+            <pubDate>Fri, 18 Mar 2022 19:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[청와대는 원래 국민의 것은 아닌데 말이죠.]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeHdNQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e7c1e88c40b263ca261e719ef847a13c480fe2a2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/0318%20pha%20thum.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장애인에 관한 미담이 싫다.]]></title>
+            <link>https://alook.so/posts/92teq3l</link>
+            <guid>https://alook.so/posts/92teq3l</guid>
+            <pubDate>Fri, 18 Mar 2022 19:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[어느 개인의 봉사와 배려로 치환하여 덮어버린다.]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeUVNQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a87bf16d0e05b31491afea2210357a10365aa385/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/0318%20%20mid%20thum.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[단건 배달 1.5Km 반경의 비밀]]></title>
+            <link>https://alook.so/posts/jdtdloV</link>
+            <guid>https://alook.so/posts/jdtdloV</guid>
+            <pubDate>Fri, 18 Mar 2022 19:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[1.5km의 알고리듬은 누구를 위한 것인가?]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVFNQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--97355b739cbcf72340506fa30b7b5caaaf76961c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/0318%20parks%20thum.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 나은 사회는 시민의 ‘역량’을 높이려 한다.]]></title>
+            <link>https://alook.so/posts/WLt5q4J</link>
+            <guid>https://alook.so/posts/WLt5q4J</guid>
+            <pubDate>Fri, 18 Mar 2022 19:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[더 나은 삶의 가능성에 대해 함께 고민해보면 좋겠습니다.]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeWNNQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--225b619d7a753b4f36d8b7b218d7744325423fb4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/0318%20ms%20thum.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
