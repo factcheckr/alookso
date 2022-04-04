@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://alook.so/</id>
-    <title>alookso ─ 투데이</title>
-    <updated>2022-04-04T08:24:04.835Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>alookso ─ 투데이</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 04 Apr 2022 09:20:23 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전쟁 미래, 드론을 주목하라 [우크라이나 전쟁 다르게 보기]]]></title>
+            <link>https://alook.so/posts/3wtEmvV</link>
+            <guid>https://alook.so/posts/3wtEmvV</guid>
+            <pubDate>Mon, 04 Apr 2022 09:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나 하늘을 가르는 드론의 날개가 세계의 공기를 뒤흔들고 있다.]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM2dXQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c136d2e7397b7b0a70784146b06d9576d14b6386/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--97cb25efe4d76cf04d9254bd44300f0e9c7bf68c/5_%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[미디어 분열과 AI의 현혹, 정보전쟁 [우크라이나 전쟁 다르게 보기]]]></title>
+            <link>https://alook.so/posts/54t3ZMx</link>
+            <guid>https://alook.so/posts/54t3ZMx</guid>
+            <pubDate>Mon, 04 Apr 2022 09:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[영토를 빼앗는 물리적 공방전을 넘어선 ‘정보전쟁’이 동시에 벌어지고 있다.]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM1lXQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d49b93aaf4e5ef0fb5ea30dc41c69194322510ae/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--97cb25efe4d76cf04d9254bd44300f0e9c7bf68c/5_%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
