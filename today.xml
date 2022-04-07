@@ -1,27 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>alookso ─ 투데이</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 10:20:44 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[성공적인 연금개혁을 위한 4가지 전제 [연금개혁 백가쟁명]]]></title>
-            <link>https://alook.so/posts/Yyt021p</link>
-            <guid>https://alook.so/posts/Yyt021p</guid>
-            <pubDate>Thu, 07 Apr 2022 09:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[연금개혁 문제, 어떻게 바라보고, 어디서부터 시작해야 할까.]]></content:encoded>
-            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVVxQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--13417b54b018792d1d6ab5e57bc20b075daecf91/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hSeVpYTnBlbVZmZEc5ZmJHbHRhWFJiQjJrQ0FBRnBBZ0FCT2d4amIyNTJaWEowU1NJSWFuQm5CanNHVkRvS2MyRjJaWEo3Q0RvTWNYVmhiR2wwZVdsVk9ncHpkSEpwY0ZRNkQySmhZMnRuY205MWJtUmJDR2tCLzJrQi8ya0Ivdz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--fe3906638bb53ff333387bc293f5c34df8b70945/6_%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%B3%E1%86%B7_%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%92%E1%85%A1%E1%86%B8%E1%84%82%E1%85%B2%E1%84%89%E1%85%B3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민연금을 통해 적정한 수준의 소득보장이 가능하도록 해야 한다 [연금개혁 백가쟁명]]]></title>
-            <link>https://alook.so/posts/WLt5wqJ</link>
-            <guid>https://alook.so/posts/WLt5wqJ</guid>
-            <pubDate>Thu, 07 Apr 2022 09:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[노후소득의 보장성을 담보하면서 재정적 지속성을 확보해야 한다.]]></content:encoded>
-            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN0lwQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--dfb0b8174274a639d0b138d17497d762b064a9b2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJQUFXa0NBQUU2REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--4d17ad2abb0e535d5401f3a6c993197754afec82/6_%E1%84%87%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A2%E1%84%89%E1%85%B5%E1%86%A8_%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%92%E1%85%A1%E1%86%B8%E1%84%82%E1%85%B2%E1%84%89%E1%85%B3.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://alook.so/</id>
+    <title>alookso ─ 투데이</title>
+    <updated>2022-04-07T11:18:08.798Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+</feed>
