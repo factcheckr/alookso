@@ -30,7 +30,7 @@ onFail = "stale"
 [today]
 title = "alookso ─ 투데이"
 url = "https://alook.so/"
-entrySelector = "section:nth-child(2) > div.hidden.pb-4.md\:block.pt-2 > div[class='md:px-4 lg:px-8 xl:px-12 group-post-body-visible']"
+entrySelector = "section:nth-child(2) > div.hidden.pb-4.md:block.pt-2 > div[class='md:px-4 lg:px-8 xl:px-12 group-post-body-visible']"
 titleSelector = "div[class='mb-1 mt-1.5 space-y-1 group'] div a"
 linkSelector = "div[class='mb-1 mt-1.5 space-y-1 group'] div a"
 contentSelector = "div.trix-content div"
