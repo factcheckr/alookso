@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 22:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 23:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,7 +41,7 @@
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMjQxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMDQ1WgY7AFQ%3D--0bd3bed48f1ffd5d341c8ef993f336f0b5779da7">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMjQxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuMzg4WgY7AFQ%3D--a178c1d0e7bf23dd4ba7e06ad3c49fdbf79159be">신고</a>
         </div>
       </div>
     </div>
@@ -104,20 +104,127 @@
     <span class="flex items-center flex-none px-2 py-1 border rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40">
       <a class="inline-block h-full whitespace-nowrap" href="/posts/a0tj6po#reply">
           <svg class="inline-block h-3.5 w-3.5 text-gray-400 fill-current"><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-article"></use></svg>
-          <span data-qa="children-count">12</span>
+          <span data-qa="children-count">13</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_a0tj6po border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMjQxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMDk5WgY7AFQ%3D--0853756bd719da80b9e7fe4057e81cb7c0c5d2da"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMjQxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNDE3WgY7AFQ%3D--bcff3c5310e4b94a7436af51da54077709d687a9"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
-      43
+      44
     </span>
-</button><input type="hidden" name="authenticity_token" value="cfMuL8coz0dEhJ_PkqYaGZp5YCoPzyKFNEikmNBWb4lDin-KHGgDU2Q2GwpNB0siHugeufBy0eVJb_hyvjFDBw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="ZalLTs9bqan97VCe3srbdXuzOOKuHCEhovOoKmPUatS09HsemIbL-OjINZPUo7N8qo_GIkGUwcNG6qp55EwPqQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
   </div>]]></content:encoded>
             <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOFRUQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e198b6e8c3a73ef57f8e23ed78167793bdec7b6b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/1654855496197-2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인생을 사는데 없는 3가지 (alookso ─ 토픽 ─ 뜨는 글)]]></title>
+            <link>https://alook.so/posts/Zkt6wd5</link>
+            <guid>https://alook.so/posts/Zkt6wd5</guid>
+            <pubDate>Fri, 10 Jun 2022 22:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[<div id="post_Zkt6wd5" class="break-words min-w-0 bg-white post_Zkt6wd5" data-qa-post-id="222442">
+    
+      <div class="flex items-center justify-between text-gray-900">
+  <div class="flex-1 w-0 group-post-date-visible">
+      <div class="flex items-center space-x-1">
+    <div class="relative z-0 flex -space-x-3">
+        <a href="/users/LZtQJP"><img style="width: 20.0px; height: 20.0px;" class="inline rounded-full object-cover border border-gray-200 bg-white " onerror="this.onerror=null;this.src='https://alook.so/assets/icons/icon-solid-user-7eac5bc0e82de02349582eac9ce9eb63104851bcb1a099b6985ce52d281b575f.svg'" alt="똑순이" src="https://alook.so/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeTZiQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5429230e566b2156eaad450da0932db03fcd8993/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RW5KbGMybDZaVjkwYjE5bWFYUmJCMllJTkdVeFFBZzZER052Ym5abGNuUkpJZ2hxY0djR093WlVPZ3B6WVhabGNuc0lPZ3h4ZFdGc2FYUjVhVlU2Q25OMGNtbHdWRG9QWW1GamEyZHliM1Z1WkZzSWFRSC9hUUgvYVFILyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--777c11f252aabf9495aa6dae6e0fb0f90a514449/20220519_113351.jpg" width="20.0px" height="20.0px"></a>
+    </div>
+    <div class="font-medium text-gray-600 break-all text-xxs hover:underline decoration-gray-600 underline-offset-1">
+      <a href="/users/LZtQJP">똑순이</a>
+    </div>
+    <div class="items-center hidden group-post-date-visible-base:flex">
+      <span class="mr-1 text-xs text-gray-500">
+        ·
+      </span>
+      <div class="font-light text-gray-400 text-xxs">
+        2022/06/11
+      </div>
+    </div>
+  </div>
+
+  </div>
+    <div>
+    <div class="relative" data-controller="dropdown" aria-haspopup="true" aria-expanded="false">
+      <div data-qa="post-menu" data-action="click->dropdown#toggle click@window->dropdown#hide" role="button" data-dropdown-target="button" tabindex="0" class="inline-block select-none" aria-label="글 더보기 메뉴">
+        <svg class="self-center w-4 h-4 fill-current text-gray-300"><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-kebab"></use></svg>
+      </div>
+      <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
+        <div class="overflow-hidden text-sm bg-white border rounded shadow">
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyNDQyBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNDI1WgY7AFQ%3D--39865b34e982737672d0aca4f587abfc34b0a9ab">신고</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+      <div class="mt-2 space-y-2 cursor-pointer" data-controller="box-link" data-box-link-url-value="/posts/Zkt6wd5">
+        <div class="group">
+          <div class="mb-0.5 text-base font-medium text-gray-800 break-all md:hidden line-clamp-2 group-hover:underline group-hover:cursor-pointer decoration-gray-800 underline-offset-1" data-qa="post-title">
+            <div class="hidden group-feed-event-main-topic-base:flex items-center justify-start text-purple-600 text-xxs mb-0.5">
+              <svg class="w-4 h-4 fill-current mr-0.5"><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-up"></use></svg>
+              <span>이 토픽에서 뜨는 글</span>
+            </div>
+            인생을 사는데 없는 3가지
+          </div>
+
+          <div class="flex ">
+            <div class="flex-1">
+              <div class="hidden md:block">
+                <div class="hidden group-feed-event-main-topic-base:flex items-center justify-start text-purple-600 text-xxs mb-1.5">
+                  <svg class="w-4 h-4 fill-current mr-0.5"><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-up"></use></svg>
+                  <span>이 토픽에서 뜨는 글</span>
+                </div>
+                <p class="mb-1 text-base font-medium text-gray-800 break-all line-clamp-1 group-hover:underline group-hover:cursor-pointer decoration-gray-800 underline-offset-1" data-qa="post-title">
+                  인생을 사는데 없는 3가지
+                </p>
+              </div>
+              <h6 class="font-normal text-gray-500">
+    <a class="trix-content-post-partial" href="/posts/Zkt6wd5">
+      <div class="break-all trix-content  group-post-body-line-clamp-base:line-clamp-2 line-clamp-3">
+          우리가 인생을 사는데 없는 3가지.
+1&nbsp; 공짜.
+2&nbsp; 비밀.
+3&nbsp; 정답.
+
+오늘을 주말 입니다.
+모두 모두 행복하고 즐거운 주말&nbsp;
+되시길 빌께요^^
+      </div>
+</a></h6>
+            </div>
+          </div>
+        </div>
+        <div class="flex items-center text-xs font-light text-gray-500">
+  <div class="mr-2 group-post-topic-invisible-base:hidden">
+    <div class="group-post-topic-invisible-base:hidden">
+    <span class="inline-block">
+      <button type="button" class="flex items-center px-2 py-1 text-xs font-light text-gray-500 border border-gray-200 rounded lg:hover:bg-gray-100/40 active:bg-gray-100/40">
+        <a href="/topics/life">
+          라이프
+</a>      </button>
+    </span>
+</div>
+  </div>
+  <div class="flex items-center space-x-2">
+    <span class="flex items-center flex-none px-2 py-1 border rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40">
+      <a class="inline-block h-full whitespace-nowrap" href="/posts/Zkt6wd5#reply">
+          <svg class="inline-block h-3.5 w-3.5 text-gray-400 fill-current"><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-article"></use></svg>
+          <span data-qa="children-count">4</span>
+</a>    </span>
+    <div class="h-full whitespace-nowrap like_button_post_Zkt6wd5 border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyNDQyBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNDMxWgY7AFQ%3D--8f869f3bf5c180a23f56facb05aed6c340a3b7d2"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-recommend"></use></svg>
+    <span class="font-light ">
+      13
+    </span>
+</button><input type="hidden" name="authenticity_token" value="ZalLTs9bqan97VCe3srbdXuzOOKuHCEhovOoKmPUatS09HsemIbL-OjINZPUo7N8qo_GIkGUwcNG6qp55EwPqQ" autocomplete="off"></form></div>
+  </div>
+</div>
+      </div>
+  </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[<소쩍소쩍> 할 말은 합니다 (alookso ─ 토픽 ─ 뜨는 글)]]></title>
@@ -153,7 +260,7 @@
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMTM3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMTA4WgY7AFQ%3D--0d143c2b736a5412f8db98a31a0a7468d15d10ba">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMTM3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNDM4WgY7AFQ%3D--b4fe2b98b7438b44bf0db1dd50ee856f73d97f6f">신고</a>
         </div>
       </div>
     </div>
@@ -230,12 +337,12 @@
           <span data-qa="children-count">13</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_J5t8dwB border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMTM3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMTE1WgY7AFQ%3D--8212f970d8d4de58bad4098a7a2e1fe4d553010a"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMTM3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNDQ0WgY7AFQ%3D--e758347f22da8c0efcffc5794f549b232e7218f8"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       38
     </span>
-</button><input type="hidden" name="authenticity_token" value="cfMuL8coz0dEhJ_PkqYaGZp5YCoPzyKFNEikmNBWb4lDin-KHGgDU2Q2GwpNB0siHugeufBy0eVJb_hyvjFDBw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="ZalLTs9bqan97VCe3srbdXuzOOKuHCEhovOoKmPUatS09HsemIbL-OjINZPUo7N8qo_GIkGUwcNG6qp55EwPqQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -276,7 +383,7 @@
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxOTk3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMTIyWgY7AFQ%3D--3f2710f822cb541f7450f08632ddf1fed20363cb">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxOTk3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNDUyWgY7AFQ%3D--6b4dda7ea503de168b0c95cdb549f20eb6954b80">신고</a>
         </div>
       </div>
     </div>
@@ -339,12 +446,12 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
           <span data-qa="children-count">13</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_E7t9r68 border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxOTk3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMTkwWgY7AFQ%3D--e30a1c6d5ef8cceff7000ff7364e5271490dcb72"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxOTk3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNDYwWgY7AFQ%3D--0c4bc046268b01237605e5c5eca5974ed0af4f36"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       43
     </span>
-</button><input type="hidden" name="authenticity_token" value="cfMuL8coz0dEhJ_PkqYaGZp5YCoPzyKFNEikmNBWb4lDin-KHGgDU2Q2GwpNB0siHugeufBy0eVJb_hyvjFDBw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="ZalLTs9bqan97VCe3srbdXuzOOKuHCEhovOoKmPUatS09HsemIbL-OjINZPUo7N8qo_GIkGUwcNG6qp55EwPqQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -385,7 +492,7 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxOTg1BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMjAxWgY7AFQ%3D--0ff5a0ed5f78f0865a18e333eb489c6454cab2de">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxOTg1BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNDY3WgY7AFQ%3D--910de95171ad17865aa88c3e4543b0ee5d6e7b85">신고</a>
         </div>
       </div>
     </div>
@@ -450,12 +557,12 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
           <span data-qa="children-count">16</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_rDtR1P8 border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxOTg1BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMjA4WgY7AFQ%3D--04b2207b534d1c8c56b2dcb03f4aadc84367bf5d"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxOTg1BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNDczWgY7AFQ%3D--58d8f46ab161aa033f6281aaa25e00439dab938b"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
-      44
+      45
     </span>
-</button><input type="hidden" name="authenticity_token" value="cfMuL8coz0dEhJ_PkqYaGZp5YCoPzyKFNEikmNBWb4lDin-KHGgDU2Q2GwpNB0siHugeufBy0eVJb_hyvjFDBw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="ZalLTs9bqan97VCe3srbdXuzOOKuHCEhovOoKmPUatS09HsemIbL-OjINZPUo7N8qo_GIkGUwcNG6qp55EwPqQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -496,7 +603,7 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxOTU2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMjE2WgY7AFQ%3D--cab0b5626f33416361b0ff63e529e9b97533e725">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxOTU2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNDgwWgY7AFQ%3D--c1e20229edb29188ca95c5896badf3d5bb742798">신고</a>
         </div>
       </div>
     </div>
@@ -578,124 +685,16 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
           <span data-qa="children-count">18</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_G1tovZD border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxOTU2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMjIzWgY7AFQ%3D--6641cd1466f67c5d7dbf602f2144f9d7d7bcd87a"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxOTU2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNDg1WgY7AFQ%3D--9f135a553f0b5ac9ec65835f9a78a0b7d1228061"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       40
     </span>
-</button><input type="hidden" name="authenticity_token" value="cfMuL8coz0dEhJ_PkqYaGZp5YCoPzyKFNEikmNBWb4lDin-KHGgDU2Q2GwpNB0siHugeufBy0eVJb_hyvjFDBw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="ZalLTs9bqan97VCe3srbdXuzOOKuHCEhovOoKmPUatS09HsemIbL-OjINZPUo7N8qo_GIkGUwcNG6qp55EwPqQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
   </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[무거운 일상에 밝은 빛을 쏘다 (alookso ─ 토픽 ─ 뜨는 글)]]></title>
-            <link>https://alook.so/posts/E7t9rn3</link>
-            <guid>https://alook.so/posts/E7t9rn3</guid>
-            <pubDate>Fri, 10 Jun 2022 01:27:39 GMT</pubDate>
-            <content:encoded><![CDATA[<div id="post_E7t9rn3" class="break-words min-w-0 bg-white post_E7t9rn3" data-qa-post-id="221808">
-    
-      <div class="flex items-center justify-between text-gray-900">
-  <div class="flex-1 w-0 group-post-date-visible">
-      <div class="flex items-center space-x-1">
-    <div class="relative z-0 flex -space-x-3">
-        <a href="/users/20tgBY"><img style="width: 20.0px; height: 20.0px;" class="inline rounded-full object-cover border border-gray-200 bg-white " onerror="this.onerror=null;this.src='https://alook.so/assets/icons/icon-solid-user-7eac5bc0e82de02349582eac9ce9eb63104851bcb1a099b6985ce52d281b575f.svg'" alt="실배" src="https://alook.so/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb1lMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--48a4d65810c00c67d5322e65e343d12df6d8f983/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RW5KbGMybDZaVjkwYjE5bWFYUmJCMllJTkdVeFFBZzZER052Ym5abGNuUkpJZ2hxY0djR093WlVPZ3B6WVhabGNuc0lPZ3h4ZFdGc2FYUjVhVlU2Q25OMGNtbHdWRG9QWW1GamEyZHliM1Z1WkZzSWFRSC9hUUgvYVFILyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--777c11f252aabf9495aa6dae6e0fb0f90a514449/1615781018335.jpg" width="20.0px" height="20.0px"></a>
-    </div>
-    <div class="font-medium text-gray-600 break-all text-xxs hover:underline decoration-gray-600 underline-offset-1">
-      <a href="/users/20tgBY">실배</a>
-    </div>
-    <div class="items-center hidden group-post-date-visible-base:flex">
-      <span class="mr-1 text-xs text-gray-500">
-        ·
-      </span>
-      <div class="font-light text-gray-400 text-xxs">
-        2022/06/10
-      </div>
-    </div>
-  </div>
-
-  </div>
-    <div>
-    <div class="relative" data-controller="dropdown" aria-haspopup="true" aria-expanded="false">
-      <div data-qa="post-menu" data-action="click->dropdown#toggle click@window->dropdown#hide" role="button" data-dropdown-target="button" tabindex="0" class="inline-block select-none" aria-label="글 더보기 메뉴">
-        <svg class="self-center w-4 h-4 fill-current text-gray-300"><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-kebab"></use></svg>
-      </div>
-      <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
-        <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxODA4BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMjMxWgY7AFQ%3D--df16641f3f042e5aaeae9ce7f0d0f1930f361080">신고</a>
-        </div>
-      </div>
-    </div>
-  </div>
-
-</div>
-      <div class="mt-2 space-y-2 cursor-pointer" data-controller="box-link" data-box-link-url-value="/posts/E7t9rn3">
-        <div class="group">
-          <div class="mb-0.5 text-base font-medium text-gray-800 break-all md:hidden line-clamp-2 group-hover:underline group-hover:cursor-pointer decoration-gray-800 underline-offset-1" data-qa="post-title">
-            <div class="hidden group-feed-event-main-topic-base:flex items-center justify-start text-purple-600 text-xxs mb-0.5">
-              <svg class="w-4 h-4 fill-current mr-0.5"><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-up"></use></svg>
-              <span>이 토픽에서 뜨는 글</span>
-            </div>
-            무거운 일상에 밝은 빛을 쏘다
-          </div>
-
-          <div class="flex h-14 sm:h-20">
-            <div class="flex-1">
-              <div class="hidden md:block">
-                <div class="hidden group-feed-event-main-topic-base:flex items-center justify-start text-purple-600 text-xxs mb-1.5">
-                  <svg class="w-4 h-4 fill-current mr-0.5"><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-up"></use></svg>
-                  <span>이 토픽에서 뜨는 글</span>
-                </div>
-                <p class="mb-1 text-base font-medium text-gray-800 break-all line-clamp-1 group-hover:underline group-hover:cursor-pointer decoration-gray-800 underline-offset-1" data-qa="post-title">
-                  무거운 일상에 밝은 빛을 쏘다
-                </p>
-              </div>
-              <h6 class="font-normal text-gray-500">
-    <a class="trix-content-post-partial" href="/posts/E7t9rn3">
-      <div class="break-all trix-content md:group-feed-event-main-topic-base:line-clamp-2 group-post-body-line-clamp-base:line-clamp-2 line-clamp-3">
-          달력에 동그라미를 치길 몇 번. 오전 10시는 마의 시간인가. 분명 신청해야지 하다가도 잠깐 다른 일을 하다 보면 또 깜박했다. 이러다 안되겠다 싶어 어제는 알람까지 맞춰놓았다.
-
-급하게 보고 자료가 떨어져 작성 중 우렁찬 알람이 고요한 사무실에 적막을 깼다. 하던 일을 멈추고 급히 인터넷망을 통하여 사이트에 접속했다. 로그인부터 쉽지 않았다. 다음 화면으로 넘어가지 않았다. 1분 1초가 다급했다. 입에 침이 바짝 말랐다. 하나씩 화면이 전환될 때마다 안도의 한숨을 내쉬었다. 그리고 드디어 신청 완료!'내 인생 최고의 책' 선정 도서 중 하나였던 헤르만 헤세의 '싯다르타'였다. 더구나 양장본이었다. 아무도 모르게 나 혼자 '야호'를 외치며 오른 주먹을 꽉 쥐었다. 세번의 도전 만에 성공이었다.&nbsp;
-
-사내에서 지원하는 독서 증진 프로그램이 있다. 통상 일주일 전에 게시판에 공지를 올리고, 정해진 요일, 정해진 시간에 접속해서 도서를 신청한다. 완료되면 회사로 책을 배송해 준다. 책...
-      </div>
-</a></h6>
-            </div>
-              <div class="w-32 ml-2 basis-1/4 md:basis-auto">
-                <img class="aspect-13/8 object-cover rounded border border-gray-200 h-14 sm:h-20 min-w-fit" data-qa="post-cover" loading="lazy" src="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNUxQQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fd2a9b4f09985e88ba94c7711aea250ce649d56b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/Screenshot_20220610-075333_Gallery.jpg">
-              </div>
-          </div>
-        </div>
-        <div class="flex items-center text-xs font-light text-gray-500">
-  <div class="mr-2 group-post-topic-invisible-base:hidden">
-    <div class="group-post-topic-invisible-base:hidden">
-    <span class="inline-block">
-      <button type="button" class="flex items-center px-2 py-1 text-xs font-light text-gray-500 border border-gray-200 rounded lg:hover:bg-gray-100/40 active:bg-gray-100/40">
-        <a href="/topics/life">
-          라이프
-</a>      </button>
-    </span>
-</div>
-  </div>
-  <div class="flex items-center space-x-2">
-    <span class="flex items-center flex-none px-2 py-1 border rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40">
-      <a class="inline-block h-full whitespace-nowrap" href="/posts/E7t9rn3#reply">
-          <svg class="inline-block h-3.5 w-3.5 text-gray-400 fill-current"><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-article"></use></svg>
-          <span data-qa="children-count">6</span>
-</a>    </span>
-    <div class="h-full whitespace-nowrap like_button_post_E7t9rn3 border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxODA4BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMjM4WgY7AFQ%3D--fd92e88d7d3bb2216de0e0170a78fc89ff5820a9"><button class="h-full whitespace-nowrap flex items-center" type="submit">
-    <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-recommend"></use></svg>
-    <span class="font-light ">
-      46
-    </span>
-</button><input type="hidden" name="authenticity_token" value="cfMuL8coz0dEhJ_PkqYaGZp5YCoPzyKFNEikmNBWb4lDin-KHGgDU2Q2GwpNB0siHugeufBy0eVJb_hyvjFDBw" autocomplete="off"></form></div>
-  </div>
-</div>
-      </div>
-  </div>]]></content:encoded>
-            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNUxQQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fd2a9b4f09985e88ba94c7711aea250ce649d56b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/Screenshot_20220610-075333_Gallery.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[법은 무엇을 위해 존재하는가 - 사형제 반대와 형량 증가에 대한 생각. (alookso ─ 토픽 ─ 뜨는 글)]]></title>
@@ -731,7 +730,7 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMjU5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMjQ2WgY7AFQ%3D--3337440d8854b927179a551f95b7e1cb6a1b23c8">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMjU5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MzUuNzA0WgY7AFQ%3D--61ef66adea8c4d1f6d4c582b1a97c724865e6c59">신고</a>
         </div>
       </div>
     </div>
@@ -793,12 +792,12 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
           <span data-qa="children-count">1</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_G1tov2l border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMjU5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMjUyWgY7AFQ%3D--decbf82d11c82d43a529f3c2e5eb285c0b9f0cf7"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMjU5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MzUuNzM2WgY7AFQ%3D--21638a27f61186194ea3f08f5126e8b139e340f0"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       14
     </span>
-</button><input type="hidden" name="authenticity_token" value="cfMuL8coz0dEhJ_PkqYaGZp5YCoPzyKFNEikmNBWb4lDin-KHGgDU2Q2GwpNB0siHugeufBy0eVJb_hyvjFDBw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="ZalLTs9bqan97VCe3srbdXuzOOKuHCEhovOoKmPUatS09HsemIbL-OjINZPUo7N8qo_GIkGUwcNG6qp55EwPqQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -849,7 +848,7 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxODQwBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMjc5WgY7AFQ%3D--ca36e2096a3819095a19501a0e2d6c3ebf891f3f">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxODQwBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNTEyWgY7AFQ%3D--7337e695b953a1c88063d3731f0e1d6602263b9f">신고</a>
         </div>
       </div>
     </div>
@@ -908,12 +907,12 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
           <span data-qa="comments-count">1</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_rDtR1Md border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxODQwBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMjg1WgY7AFQ%3D--26c846f573664e3156fbdd1fbe68d8aa888eb8cd"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxODQwBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNTE2WgY7AFQ%3D--bd70499926e795ebec852b7f875cb73bd35fe3ba"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       24
     </span>
-</button><input type="hidden" name="authenticity_token" value="cfMuL8coz0dEhJ_PkqYaGZp5YCoPzyKFNEikmNBWb4lDin-KHGgDU2Q2GwpNB0siHugeufBy0eVJb_hyvjFDBw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="ZalLTs9bqan97VCe3srbdXuzOOKuHCEhovOoKmPUatS09HsemIbL-OjINZPUo7N8qo_GIkGUwcNG6qp55EwPqQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -953,7 +952,7 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMzQxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMjkyWgY7AFQ%3D--c51aeba75edf1611e7f60c12294a4b0b99f854d2">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMzQxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNTI0WgY7AFQ%3D--4b118296757963d6c44d5407969885c80c7928c3">신고</a>
         </div>
       </div>
     </div>
@@ -1014,12 +1013,12 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
           <span data-qa="children-count">2</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_Zkt6w4n border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMzQxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMjk3WgY7AFQ%3D--ba062513828df5eb0ec1c7b2215ad44c6fe2e253"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMzQxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNTI5WgY7AFQ%3D--40f737504d64de04142dbcd8b144584fdb67d127"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
-      9
+      10
     </span>
-</button><input type="hidden" name="authenticity_token" value="cfMuL8coz0dEhJ_PkqYaGZp5YCoPzyKFNEikmNBWb4lDin-KHGgDU2Q2GwpNB0siHugeufBy0eVJb_hyvjFDBw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="ZalLTs9bqan97VCe3srbdXuzOOKuHCEhovOoKmPUatS09HsemIbL-OjINZPUo7N8qo_GIkGUwcNG6qp55EwPqQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -1059,7 +1058,7 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMDc5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMzA0WgY7AFQ%3D--2e4a906d45858e78120f77ebb0d8deb673f178bf">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMDc5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNTM1WgY7AFQ%3D--d890f8dfc00a85918c98e610fbff00bc77e55800">신고</a>
         </div>
       </div>
     </div>
@@ -1141,12 +1140,12 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
           <span data-qa="children-count">2</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_potWOZx border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMDc5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMzEwWgY7AFQ%3D--5681706f2af4b5a1f8fb32b701e9d606a152a1db"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMDc5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNTM5WgY7AFQ%3D--1943de1f74965eef1645746272d530a9f8360b61"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       12
     </span>
-</button><input type="hidden" name="authenticity_token" value="cfMuL8coz0dEhJ_PkqYaGZp5YCoPzyKFNEikmNBWb4lDin-KHGgDU2Q2GwpNB0siHugeufBy0eVJb_hyvjFDBw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="ZalLTs9bqan97VCe3srbdXuzOOKuHCEhovOoKmPUatS09HsemIbL-OjINZPUo7N8qo_GIkGUwcNG6qp55EwPqQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -1197,7 +1196,7 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMTA2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMzE5WgY7AFQ%3D--c4347636517f7b8d078260c3bc0a3f2243291a5e">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMTA2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNTQ2WgY7AFQ%3D--8a2d5fbfdffe896eb4737906a97534806faffd87">신고</a>
         </div>
       </div>
     </div>
@@ -1257,12 +1256,12 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
           <span data-qa="comments-count">1</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_54tkPRY border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMTA2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMzI0WgY7AFQ%3D--a20bfa3c2510b545c3375c6587183c58e86a5f01"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMTA2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNTUwWgY7AFQ%3D--fb3b397d7ad64ad4b46dd59d4a77189029c05d0f"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       13
     </span>
-</button><input type="hidden" name="authenticity_token" value="cfMuL8coz0dEhJ_PkqYaGZp5YCoPzyKFNEikmNBWb4lDin-KHGgDU2Q2GwpNB0siHugeufBy0eVJb_hyvjFDBw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="ZalLTs9bqan97VCe3srbdXuzOOKuHCEhovOoKmPUatS09HsemIbL-OjINZPUo7N8qo_GIkGUwcNG6qp55EwPqQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -1302,7 +1301,7 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMTgxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMzMyWgY7AFQ%3D--56f8e425c72c39cea0585856ff242b7fe11c1380">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMTgxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNTU1WgY7AFQ%3D--322e4e53274018f8db4d044bbe9fc7a614fcd956">신고</a>
         </div>
       </div>
     </div>
@@ -1366,12 +1365,12 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
           답글
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_J5t8dGB border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMTgxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMzM4WgY7AFQ%3D--90e457a14c60a90ce71fd6b27e76d18425e97ad4"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMTgxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNTU5WgY7AFQ%3D--c25b4cadab7e15e9b7f6a7b279af8d4f83c059f9"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       10
     </span>
-</button><input type="hidden" name="authenticity_token" value="cfMuL8coz0dEhJ_PkqYaGZp5YCoPzyKFNEikmNBWb4lDin-KHGgDU2Q2GwpNB0siHugeufBy0eVJb_hyvjFDBw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="ZalLTs9bqan97VCe3srbdXuzOOKuHCEhovOoKmPUatS09HsemIbL-OjINZPUo7N8qo_GIkGUwcNG6qp55EwPqQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -1423,7 +1422,7 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxOTI1BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMzU2WgY7AFQ%3D--8615cb4c612670d6339e72d9b992b8ef599b041a">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxOTI1BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNTczWgY7AFQ%3D--3b86b7fb2a211f757ef219c2cc8c8fe855732486">신고</a>
         </div>
       </div>
     </div>
@@ -1483,12 +1482,12 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
           <span data-qa="comments-count">1</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_4Xtw3j0 border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxOTI1BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMzYyWgY7AFQ%3D--6f58db03332d6e116a19e84ae18e64d733640870"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxOTI1BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNTc5WgY7AFQ%3D--a929b345a266809d63b294c0f7cebab28f7d6d38"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       15
     </span>
-</button><input type="hidden" name="authenticity_token" value="cfMuL8coz0dEhJ_PkqYaGZp5YCoPzyKFNEikmNBWb4lDin-KHGgDU2Q2GwpNB0siHugeufBy0eVJb_hyvjFDBw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="ZalLTs9bqan97VCe3srbdXuzOOKuHCEhovOoKmPUatS09HsemIbL-OjINZPUo7N8qo_GIkGUwcNG6qp55EwPqQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -1539,7 +1538,7 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxOTEzBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMzcxWgY7AFQ%3D--c95e5ba2cbe9e977f3b5bd82c4e10fab6c98df03">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxOTEzBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNTg2WgY7AFQ%3D--e32a95b094d086142934c3654fbe0ed63f4b7129">신고</a>
         </div>
       </div>
     </div>
@@ -1594,12 +1593,12 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
           <span data-qa="comments-count">2</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_8WtayYp border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxOTEzBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMzc3WgY7AFQ%3D--f899ec39383a6acfa7f4b7afb835b0ba88bd7c22"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxOTEzBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNTkwWgY7AFQ%3D--138bbb89de62b05dc0d18fc32589b4581f017bbb"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       15
     </span>
-</button><input type="hidden" name="authenticity_token" value="cfMuL8coz0dEhJ_PkqYaGZp5YCoPzyKFNEikmNBWb4lDin-KHGgDU2Q2GwpNB0siHugeufBy0eVJb_hyvjFDBw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="ZalLTs9bqan97VCe3srbdXuzOOKuHCEhovOoKmPUatS09HsemIbL-OjINZPUo7N8qo_GIkGUwcNG6qp55EwPqQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -1650,7 +1649,7 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMTk2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMzg2WgY7AFQ%3D--766f834bfd26960f36814fb54b4ce048bc3e3b71">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMTk2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNTk3WgY7AFQ%3D--267da61b46da34b2378423254f508236a721e5ab">신고</a>
         </div>
       </div>
     </div>
@@ -1707,12 +1706,12 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
           댓글
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_Kmt1mLp border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMTk2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuMzk0WgY7AFQ%3D--86c573f4f50ec57b504735db4d22d1056ffdd6cb"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyMTk2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNjA4WgY7AFQ%3D--07e17fd78dc695a30d97d939f904dcb14424803d"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       8
     </span>
-</button><input type="hidden" name="authenticity_token" value="cfMuL8coz0dEhJ_PkqYaGZp5YCoPzyKFNEikmNBWb4lDin-KHGgDU2Q2GwpNB0siHugeufBy0eVJb_hyvjFDBw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="ZalLTs9bqan97VCe3srbdXuzOOKuHCEhovOoKmPUatS09HsemIbL-OjINZPUo7N8qo_GIkGUwcNG6qp55EwPqQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -1752,7 +1751,7 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxMzA0BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuNDAyWgY7AFQ%3D--7795fda848e997ef04da41fec2389a41effecedd">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxMzA0BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNjIyWgY7AFQ%3D--b06526c894068c9a0b33afa9947736ff0d63bb12">신고</a>
         </div>
       </div>
     </div>
@@ -1819,12 +1818,12 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
           <span data-qa="children-count">14</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_vKt1Yjv border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxMzA0BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuNDA4WgY7AFQ%3D--954d5b568f6f8312384375d1bbd94c59a31bd70d"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxMzA0BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNjI3WgY7AFQ%3D--591982f0ebd3a38582e384b85ba767b2beef630f"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       50
     </span>
-</button><input type="hidden" name="authenticity_token" value="cfMuL8coz0dEhJ_PkqYaGZp5YCoPzyKFNEikmNBWb4lDin-KHGgDU2Q2GwpNB0siHugeufBy0eVJb_hyvjFDBw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="ZalLTs9bqan97VCe3srbdXuzOOKuHCEhovOoKmPUatS09HsemIbL-OjINZPUo7N8qo_GIkGUwcNG6qp55EwPqQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -1865,7 +1864,7 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxMDYyBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuNDE1WgY7AFQ%3D--1358b58ef242423b46cf03dcf8411fa9e30988ef">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxMDYyBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNjMyWgY7AFQ%3D--acd0cf6525d3759a91e99b6d46c301e2621a43c5">신고</a>
         </div>
       </div>
     </div>
@@ -1933,12 +1932,12 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
           <span data-qa="children-count">1</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_0ktnPZp border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxMDYyBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuNDIxWgY7AFQ%3D--7204f02dca9f79c7cfb7466f384d34a9993d5e7f"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxMDYyBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNjM3WgY7AFQ%3D--d88436e39ab3f0a12b558198d95d17af7d1fab90"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       14
     </span>
-</button><input type="hidden" name="authenticity_token" value="cfMuL8coz0dEhJ_PkqYaGZp5YCoPzyKFNEikmNBWb4lDin-KHGgDU2Q2GwpNB0siHugeufBy0eVJb_hyvjFDBw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="ZalLTs9bqan97VCe3srbdXuzOOKuHCEhovOoKmPUatS09HsemIbL-OjINZPUo7N8qo_GIkGUwcNG6qp55EwPqQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -1990,7 +1989,7 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIwNzQzBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuNDMwWgY7AFQ%3D--5c04ff679e4862ee3711477b25a6ee95fd277d49">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIwNzQzBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNjQ1WgY7AFQ%3D--6293468998a4fb457b9876227abb09059836b7e3">신고</a>
         </div>
       </div>
     </div>
@@ -2045,39 +2044,39 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
           댓글
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_OEtw6lW border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIwNzQzBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuNDM1WgY7AFQ%3D--1bb1c53517687897a8b24207402465c3c1dcb3db"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIwNzQzBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNjUwWgY7AFQ%3D--90ef5bdec72ed6392f703847deb409191b7136a5"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
-      11
+      12
     </span>
-</button><input type="hidden" name="authenticity_token" value="cfMuL8coz0dEhJ_PkqYaGZp5YCoPzyKFNEikmNBWb4lDin-KHGgDU2Q2GwpNB0siHugeufBy0eVJb_hyvjFDBw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="ZalLTs9bqan97VCe3srbdXuzOOKuHCEhovOoKmPUatS09HsemIbL-OjINZPUo7N8qo_GIkGUwcNG6qp55EwPqQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
   </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[인생을 사는데 없는 3가지 (alookso ─ 토픽 ─ 뜨는 글)]]></title>
-            <link>https://alook.so/posts/Zkt6wd5</link>
-            <guid>https://alook.so/posts/Zkt6wd5</guid>
-            <pubDate>Fri, 10 Jun 2022 22:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[<div id="post_Zkt6wd5" class="break-words min-w-0 bg-white post_Zkt6wd5" data-qa-post-id="222442">
+            <title><![CDATA[무거운 일상에 밝은 빛을 쏘다 (alookso ─ 토픽 ─ 뜨는 글)]]></title>
+            <link>https://alook.so/posts/E7t9rn3</link>
+            <guid>https://alook.so/posts/E7t9rn3</guid>
+            <pubDate>Fri, 10 Jun 2022 01:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[<div id="post_E7t9rn3" class="break-words min-w-0 bg-white post_E7t9rn3" data-qa-post-id="221808">
     
       <div class="flex items-center justify-between text-gray-900">
   <div class="flex-1 w-0 group-post-date-visible">
       <div class="flex items-center space-x-1">
     <div class="relative z-0 flex -space-x-3">
-        <a href="/users/LZtQJP"><img style="width: 20.0px; height: 20.0px;" class="inline rounded-full object-cover border border-gray-200 bg-white " onerror="this.onerror=null;this.src='https://alook.so/assets/icons/icon-solid-user-7eac5bc0e82de02349582eac9ce9eb63104851bcb1a099b6985ce52d281b575f.svg'" alt="똑순이" src="https://alook.so/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeTZiQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5429230e566b2156eaad450da0932db03fcd8993/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RW5KbGMybDZaVjkwYjE5bWFYUmJCMllJTkdVeFFBZzZER052Ym5abGNuUkpJZ2hxY0djR093WlVPZ3B6WVhabGNuc0lPZ3h4ZFdGc2FYUjVhVlU2Q25OMGNtbHdWRG9QWW1GamEyZHliM1Z1WkZzSWFRSC9hUUgvYVFILyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--777c11f252aabf9495aa6dae6e0fb0f90a514449/20220519_113351.jpg" width="20.0px" height="20.0px"></a>
+        <a href="/users/20tgBY"><img style="width: 20.0px; height: 20.0px;" class="inline rounded-full object-cover border border-gray-200 bg-white " onerror="this.onerror=null;this.src='https://alook.so/assets/icons/icon-solid-user-7eac5bc0e82de02349582eac9ce9eb63104851bcb1a099b6985ce52d281b575f.svg'" alt="실배" src="https://alook.so/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb1lMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--48a4d65810c00c67d5322e65e343d12df6d8f983/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RW5KbGMybDZaVjkwYjE5bWFYUmJCMllJTkdVeFFBZzZER052Ym5abGNuUkpJZ2hxY0djR093WlVPZ3B6WVhabGNuc0lPZ3h4ZFdGc2FYUjVhVlU2Q25OMGNtbHdWRG9QWW1GamEyZHliM1Z1WkZzSWFRSC9hUUgvYVFILyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--777c11f252aabf9495aa6dae6e0fb0f90a514449/1615781018335.jpg" width="20.0px" height="20.0px"></a>
     </div>
     <div class="font-medium text-gray-600 break-all text-xxs hover:underline decoration-gray-600 underline-offset-1">
-      <a href="/users/LZtQJP">똑순이</a>
+      <a href="/users/20tgBY">실배</a>
     </div>
     <div class="items-center hidden group-post-date-visible-base:flex">
       <span class="mr-1 text-xs text-gray-500">
         ·
       </span>
       <div class="font-light text-gray-400 text-xxs">
-        2022/06/11
+        2022/06/10
       </div>
     </div>
   </div>
@@ -2090,24 +2089,24 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyNDQyBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuNDQyWgY7AFQ%3D--e7fa132e0c1a82ddc2682c62008bb15c7cd7d867">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxODA4BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNjU4WgY7AFQ%3D--c5786952ff9e22220d8090e1cb708d808977d7d2">신고</a>
         </div>
       </div>
     </div>
   </div>
 
 </div>
-      <div class="mt-2 space-y-2 cursor-pointer" data-controller="box-link" data-box-link-url-value="/posts/Zkt6wd5">
+      <div class="mt-2 space-y-2 cursor-pointer" data-controller="box-link" data-box-link-url-value="/posts/E7t9rn3">
         <div class="group">
           <div class="mb-0.5 text-base font-medium text-gray-800 break-all md:hidden line-clamp-2 group-hover:underline group-hover:cursor-pointer decoration-gray-800 underline-offset-1" data-qa="post-title">
             <div class="hidden group-feed-event-main-topic-base:flex items-center justify-start text-purple-600 text-xxs mb-0.5">
               <svg class="w-4 h-4 fill-current mr-0.5"><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-up"></use></svg>
               <span>이 토픽에서 뜨는 글</span>
             </div>
-            인생을 사는데 없는 3가지
+            무거운 일상에 밝은 빛을 쏘다
           </div>
 
-          <div class="flex ">
+          <div class="flex h-14 sm:h-20">
             <div class="flex-1">
               <div class="hidden md:block">
                 <div class="hidden group-feed-event-main-topic-base:flex items-center justify-start text-purple-600 text-xxs mb-1.5">
@@ -2115,23 +2114,23 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
                   <span>이 토픽에서 뜨는 글</span>
                 </div>
                 <p class="mb-1 text-base font-medium text-gray-800 break-all line-clamp-1 group-hover:underline group-hover:cursor-pointer decoration-gray-800 underline-offset-1" data-qa="post-title">
-                  인생을 사는데 없는 3가지
+                  무거운 일상에 밝은 빛을 쏘다
                 </p>
               </div>
               <h6 class="font-normal text-gray-500">
-    <a class="trix-content-post-partial" href="/posts/Zkt6wd5">
-      <div class="break-all trix-content  group-post-body-line-clamp-base:line-clamp-2 line-clamp-3">
-          우리가 인생을 사는데 없는 3가지.
-1&nbsp; 공짜.
-2&nbsp; 비밀.
-3&nbsp; 정답.
+    <a class="trix-content-post-partial" href="/posts/E7t9rn3">
+      <div class="break-all trix-content md:group-feed-event-main-topic-base:line-clamp-2 group-post-body-line-clamp-base:line-clamp-2 line-clamp-3">
+          달력에 동그라미를 치길 몇 번. 오전 10시는 마의 시간인가. 분명 신청해야지 하다가도 잠깐 다른 일을 하다 보면 또 깜박했다. 이러다 안되겠다 싶어 어제는 알람까지 맞춰놓았다.
 
-오늘을 주말 입니다.
-모두 모두 행복하고 즐거운 주말&nbsp;
-되시길 빌께요^^
+급하게 보고 자료가 떨어져 작성 중 우렁찬 알람이 고요한 사무실에 적막을 깼다. 하던 일을 멈추고 급히 인터넷망을 통하여 사이트에 접속했다. 로그인부터 쉽지 않았다. 다음 화면으로 넘어가지 않았다. 1분 1초가 다급했다. 입에 침이 바짝 말랐다. 하나씩 화면이 전환될 때마다 안도의 한숨을 내쉬었다. 그리고 드디어 신청 완료!'내 인생 최고의 책' 선정 도서 중 하나였던 헤르만 헤세의 '싯다르타'였다. 더구나 양장본이었다. 아무도 모르게 나 혼자 '야호'를 외치며 오른 주먹을 꽉 쥐었다. 세번의 도전 만에 성공이었다.&nbsp;
+
+사내에서 지원하는 독서 증진 프로그램이 있다. 통상 일주일 전에 게시판에 공지를 올리고, 정해진 요일, 정해진 시간에 접속해서 도서를 신청한다. 완료되면 회사로 책을 배송해 준다. 책...
       </div>
 </a></h6>
             </div>
+              <div class="w-32 ml-2 basis-1/4 md:basis-auto">
+                <img class="aspect-13/8 object-cover rounded border border-gray-200 h-14 sm:h-20 min-w-fit" data-qa="post-cover" loading="lazy" src="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNUxQQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fd2a9b4f09985e88ba94c7711aea250ce649d56b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/Screenshot_20220610-075333_Gallery.jpg">
+              </div>
           </div>
         </div>
         <div class="flex items-center text-xs font-light text-gray-500">
@@ -2147,21 +2146,22 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
   </div>
   <div class="flex items-center space-x-2">
     <span class="flex items-center flex-none px-2 py-1 border rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40">
-      <a class="inline-block h-full whitespace-nowrap" href="/posts/Zkt6wd5#reply">
+      <a class="inline-block h-full whitespace-nowrap" href="/posts/E7t9rn3#reply">
           <svg class="inline-block h-3.5 w-3.5 text-gray-400 fill-current"><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-article"></use></svg>
-          <span data-qa="children-count">2</span>
+          <span data-qa="children-count">6</span>
 </a>    </span>
-    <div class="h-full whitespace-nowrap like_button_post_Zkt6wd5 border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIyNDQyBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuNDQ4WgY7AFQ%3D--29c25f55a313974bc567a881f67146fd9ae27ef3"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <div class="h-full whitespace-nowrap like_button_post_E7t9rn3 border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxODA4BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNjYyWgY7AFQ%3D--bce357bf038723e5daa5fea9bc7438f487ec2645"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
-      7
+      46
     </span>
-</button><input type="hidden" name="authenticity_token" value="cfMuL8coz0dEhJ_PkqYaGZp5YCoPzyKFNEikmNBWb4lDin-KHGgDU2Q2GwpNB0siHugeufBy0eVJb_hyvjFDBw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="ZalLTs9bqan97VCe3srbdXuzOOKuHCEhovOoKmPUatS09HsemIbL-OjINZPUo7N8qo_GIkGUwcNG6qp55EwPqQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
   </div>]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNUxQQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fd2a9b4f09985e88ba94c7711aea250ce649d56b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/Screenshot_20220610-075333_Gallery.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[혼자 살 때 아프면 서럽다 (alookso ─ 토픽 ─ 뜨는 글)]]></title>
@@ -2197,7 +2197,7 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxNzc3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuNDU1WgY7AFQ%3D--7ab83a718f5cc037868cfbfab6c3303442d63b26">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxNzc3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNjY5WgY7AFQ%3D--36b90d0d68f68a02cadaa4cfc5ca6a84a6e5e27b">신고</a>
         </div>
       </div>
     </div>
@@ -2253,12 +2253,12 @@ A씨는 대구 수성구 주상복합아파트 신축 사업 시행사와 2103�
           <span data-qa="children-count">8</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_J5t8d1m border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxNzc3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjI6MTY6MDIuNDYwWgY7AFQ%3D--805306cbe56fca4fe27c03d63974d9f39db6f575"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjIxNzc3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMTBUMjM6MTY6MDQuNjczWgY7AFQ%3D--697d75df5b728672bfadd7308426503e83fe53d1"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-1ddd5c1450460e0cba92f9b454cedc323b1c32011cf3288b403b2554f54d45dc.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       38
     </span>
-</button><input type="hidden" name="authenticity_token" value="cfMuL8coz0dEhJ_PkqYaGZp5YCoPzyKFNEikmNBWb4lDin-KHGgDU2Q2GwpNB0siHugeufBy0eVJb_hyvjFDBw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="ZalLTs9bqan97VCe3srbdXuzOOKuHCEhovOoKmPUatS09HsemIbL-OjINZPUo7N8qo_GIkGUwcNG6qp55EwPqQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
