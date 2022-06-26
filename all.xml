@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 17:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 18:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,7 +41,7 @@
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyOTAzBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNDUyWgY7AFQ%3D--01c15d34b7b1ef603444d31addb86fbcd75f306f">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyOTAzBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDcuOTk5WgY7AFQ%3D--46c8f60fb21b78273c97522848ec3b90e6e47702">신고</a>
         </div>
       </div>
     </div>
@@ -104,130 +104,20 @@
     <span class="flex items-center flex-none px-2 py-1 border rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40">
       <a class="inline-block h-full whitespace-nowrap" href="/posts/92t7Dyb#reply">
           <svg class="inline-block h-3.5 w-3.5 text-gray-400 fill-current"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-article"></use></svg>
-          <span data-qa="children-count">11</span>
+          <span data-qa="children-count">12</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_92t7Dyb border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyOTAzBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNDkwWgY7AFQ%3D--4347acd0ec90cfa27d09a7736d812e5bad8bf0cb"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyOTAzBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMDYxWgY7AFQ%3D--5301f41b3f96f9c13ca093e22aa70fc75e40f9f6"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
-      31
+      33
     </span>
-</button><input type="hidden" name="authenticity_token" value="ljE4sq2UIxEnsB98NBt62vQ-jONkRgzg2ILVhijxP_GU_rJpE0x26wGEJ801h3aWASGwFW3gOxz9U_cWH4xqGw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="l-mPrJIeChWoRfSObNtrmvuOR4Zv5PqRbcrnWUlOpnBtKIkiN93w2c9IWukqLLkTR3nqIhuzBZxYrMkOSSufjQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
   </div>]]></content:encoded>
             <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd3dmQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--bc68e6b75fa328bda3cdf481ab6efae55307d36c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/20220626_190940.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조금...내 생각보다 시간이 없...나...? (alookso ─ 토픽 ─ 뜨는 글)]]></title>
-            <link>https://alook.so/posts/Yyt6v1b</link>
-            <guid>https://alook.so/posts/Yyt6v1b</guid>
-            <pubDate>Sun, 26 Jun 2022 12:28:34 GMT</pubDate>
-            <content:encoded><![CDATA[<div id="post_Yyt6v1b" class="break-words min-w-0 bg-white post_Yyt6v1b" data-qa-post-id="232907">
-    
-      <div class="flex items-center justify-between text-gray-900">
-  <div class="flex-1 w-0 group-post-date-visible">
-      <div class="flex items-center space-x-1">
-    <div class="relative z-0 flex -space-x-3">
-        <a href="/users/Bet5Jd"><img style="width: 20.0px; height: 20.0px;" class="inline rounded-full object-cover border border-gray-200 bg-white " onerror="this.onerror=null;this.src='https://alook.so/assets/icons/icon-solid-user-7eac5bc0e82de02349582eac9ce9eb63104851bcb1a099b6985ce52d281b575f.svg'" alt="DunDun C" src="https://alook.so/assets/icons/icon-solid-user-7eac5bc0e82de02349582eac9ce9eb63104851bcb1a099b6985ce52d281b575f.svg" width="20.0px" height="20.0px"></a>
-    </div>
-    <div class="flex items-center font-medium text-gray-600 break-all text-xxs hover:underline decoration-gray-600 underline-offset-1">
-      <a href="/users/Bet5Jd">DunDun C</a>
-    </div>
-    <div class="items-center hidden group-post-date-visible-base:flex">
-      <span class="mr-1 text-xs text-gray-500">
-        ·
-      </span>
-      <div class="font-light text-gray-400 text-xxs">
-        2022/06/26
-      </div>
-    </div>
-  </div>
-
-  </div>
-    <div>
-    <div class="relative" data-controller="dropdown" aria-haspopup="true" aria-expanded="false">
-      <div data-qa="post-menu" data-action="click->dropdown#toggle click@window->dropdown#hide" role="button" data-dropdown-target="button" tabindex="0" class="inline-block select-none" aria-label="글 더보기 메뉴">
-        <svg class="self-center w-4 h-4 fill-current text-gray-300"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-kebab"></use></svg>
-      </div>
-      <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
-        <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyOTA3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNDk1WgY7AFQ%3D--151242e1e725c4beeb6fef470a53c75c69adfb7f">신고</a>
-        </div>
-      </div>
-    </div>
-  </div>
-
-</div>
-      <div class="mt-2 space-y-2 cursor-pointer" data-controller="box-link" data-box-link-url-value="/posts/Yyt6v1b">
-        <div class="group">
-          <div class="mb-0.5 text-base font-medium text-gray-800 break-all md:hidden line-clamp-2 decoration-gray-800 underline-offset-1">
-            <div class="hidden group-feed-event-main-topic-base:flex items-center justify-start text-purple-600 text-xxs mb-0.5">
-              <svg class="w-4 h-4 fill-current mr-0.5"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-up"></use></svg>
-              <span>이 토픽에서 뜨는 글</span>
-            </div>
-            <p class="group-hover:underline group-hover:cursor-pointer" data-qa="post-title">
-              조금...내 생각보다 시간이 없...나...?
-            </p>
-          </div>
-
-          <div class="flex h-14 sm:h-20">
-            <div class="flex-1">
-              <div class="hidden md:block">
-                <div class="hidden group-feed-event-main-topic-base:flex items-center justify-start text-purple-600 text-xxs mb-1.5">
-                  <svg class="w-4 h-4 fill-current mr-0.5"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-up"></use></svg>
-                  <span>이 토픽에서 뜨는 글</span>
-                </div>
-                <p class="mb-1 text-base font-medium text-gray-800 break-all line-clamp-1 group-hover:underline group-hover:cursor-pointer decoration-gray-800 underline-offset-1" data-qa="post-title">
-                  조금...내 생각보다 시간이 없...나...?
-                </p>
-              </div>
-              <h6 class="font-normal text-gray-500">
-    <a class="trix-content-post-partial" href="/posts/Yyt6v1b">
-      <div class="break-all trix-content md:group-feed-event-main-topic-base:line-clamp-2 group-post-body-line-clamp-base:line-clamp-2 line-clamp-3">
-          어제 응급실에 갔다 왔다.
-며칠 전 부터 손 발에 힘이 빠지고 두통이 조금 있는 것 같았다. 호흡기 내과 외래를 보고 신경과로 외래 접수를 하러 갔는데 신경과 접수 창구에서 간호사선생님이 응급실로 유턴시키셨기 때문. 응급실 너무 비싸고 아직 쓰러질 정도도 아닌데 외래 보면 안되냐 했더니 그러면 늦는단다... 네...?
-응급실 가서 접수를 하려는데 대학병원은 언제나 그렇지만 주말에는 북새통도 그런 북새통이 없다. 외래 환자 입원 환자도 많지만 응급실은 더 많아서 대기자 의자에 널부러저 있는데 날이 더워선지 몸이 좀 축축 늘어지고 멍-했다. 응급실 접수하는 의료진이 보기에도 이상할 만큼.
-직접 날 부르러 와서는 어디가 아파서 오셨냐길래 어물어물 말을 했더니 5분도 되지 않아서 응급실로 입성했다. 알고봤더니 이미 안면마비가 와서 말도 다 뭉게지고 표정도 딱 뇌졸중 환자 표정이었단다.
-안면마비 탓에 응급실에서 하는 간단한 환자 정보 수집, 이를테면 보호자 전화번호나 보호자와의 관계 뭐...
-      </div>
-</a></h6>
-            </div>
-              <div class="w-32 ml-2 basis-1/4 md:basis-auto">
-                <img class="aspect-13/8 object-cover rounded border border-gray-200 h-14 sm:h-20 min-w-fit" data-qa="post-cover" loading="lazy" src="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeHdmQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4a9f3fe47bdba6849c1e8d5bbcd69971e578f763/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/20220625_101807.jpg">
-              </div>
-          </div>
-        </div>
-        <div class="flex items-center text-xs font-light text-gray-500">
-  <div class="mr-2 group-post-topic-invisible-base:hidden">
-    <div class="group-post-topic-invisible-base:hidden">
-    <span class="inline-block">
-      <button type="button" class="flex items-center px-2 py-1 text-xs font-light text-gray-500 border border-gray-200 rounded lg:hover:bg-gray-100/40 active:bg-gray-100/40">
-        <a href="/topics/life">
-          라이프
-</a>      </button>
-    </span>
-</div>
-  </div>
-  <div class="flex items-center space-x-2">
-    <span class="flex items-center flex-none px-2 py-1 border rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40">
-      <a class="inline-block h-full whitespace-nowrap" href="/posts/Yyt6v1b#reply">
-          <svg class="inline-block h-3.5 w-3.5 text-gray-400 fill-current"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-article"></use></svg>
-          <span data-qa="children-count">10</span>
-</a>    </span>
-    <div class="h-full whitespace-nowrap like_button_post_Yyt6v1b border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyOTA3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNDk5WgY7AFQ%3D--cf4bcaf5ccea6365b67cb20f3f96aa2734bab419"><button class="h-full whitespace-nowrap flex items-center" type="submit">
-    <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
-    <span class="font-light ">
-      28
-    </span>
-</button><input type="hidden" name="authenticity_token" value="ljE4sq2UIxEnsB98NBt62vQ-jONkRgzg2ILVhijxP_GU_rJpE0x26wGEJ801h3aWASGwFW3gOxz9U_cWH4xqGw" autocomplete="off"></form></div>
-  </div>
-</div>
-      </div>
-  </div>]]></content:encoded>
-            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeHdmQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4a9f3fe47bdba6849c1e8d5bbcd69971e578f763/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/20220625_101807.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뜨는글뒤에 가려진 또다른글들 (alookso ─ 토픽 ─ 뜨는 글)]]></title>
@@ -263,7 +153,7 @@
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyODAwBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNTA0WgY7AFQ%3D--e332b43ad6db1cc7e0d2e41d837aa67f611e0650">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyODAwBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMDY3WgY7AFQ%3D--36487d27f9314827fbcadad4e4c10b057fb10c96">신고</a>
         </div>
       </div>
     </div>
@@ -341,19 +231,129 @@
     <span class="flex items-center flex-none px-2 py-1 border rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40">
       <a class="inline-block h-full whitespace-nowrap" href="/posts/mbt7mGJ#reply">
           <svg class="inline-block h-3.5 w-3.5 text-gray-400 fill-current"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-article"></use></svg>
-          <span data-qa="children-count">7</span>
+          <span data-qa="children-count">8</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_mbt7mGJ border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyODAwBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNTA4WgY7AFQ%3D--7006b300591b70acb7c9a76010a278476c8fcc58"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyODAwBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMDczWgY7AFQ%3D--31cca3f58b96e9bdf4d6fa2891d8307ea79da3df"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
-      37
+      39
     </span>
-</button><input type="hidden" name="authenticity_token" value="ljE4sq2UIxEnsB98NBt62vQ-jONkRgzg2ILVhijxP_GU_rJpE0x26wGEJ801h3aWASGwFW3gOxz9U_cWH4xqGw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="l-mPrJIeChWoRfSObNtrmvuOR4Zv5PqRbcrnWUlOpnBtKIkiN93w2c9IWukqLLkTR3nqIhuzBZxYrMkOSSufjQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
   </div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[조금...내 생각보다 시간이 없...나...? (alookso ─ 토픽 ─ 뜨는 글)]]></title>
+            <link>https://alook.so/posts/Yyt6v1b</link>
+            <guid>https://alook.so/posts/Yyt6v1b</guid>
+            <pubDate>Sun, 26 Jun 2022 12:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[<div id="post_Yyt6v1b" class="break-words min-w-0 bg-white post_Yyt6v1b" data-qa-post-id="232907">
+    
+      <div class="flex items-center justify-between text-gray-900">
+  <div class="flex-1 w-0 group-post-date-visible">
+      <div class="flex items-center space-x-1">
+    <div class="relative z-0 flex -space-x-3">
+        <a href="/users/Bet5Jd"><img style="width: 20.0px; height: 20.0px;" class="inline rounded-full object-cover border border-gray-200 bg-white " onerror="this.onerror=null;this.src='https://alook.so/assets/icons/icon-solid-user-7eac5bc0e82de02349582eac9ce9eb63104851bcb1a099b6985ce52d281b575f.svg'" alt="DunDun C" src="https://alook.so/assets/icons/icon-solid-user-7eac5bc0e82de02349582eac9ce9eb63104851bcb1a099b6985ce52d281b575f.svg" width="20.0px" height="20.0px"></a>
+    </div>
+    <div class="flex items-center font-medium text-gray-600 break-all text-xxs hover:underline decoration-gray-600 underline-offset-1">
+      <a href="/users/Bet5Jd">DunDun C</a>
+    </div>
+    <div class="items-center hidden group-post-date-visible-base:flex">
+      <span class="mr-1 text-xs text-gray-500">
+        ·
+      </span>
+      <div class="font-light text-gray-400 text-xxs">
+        2022/06/26
+      </div>
+    </div>
+  </div>
+
+  </div>
+    <div>
+    <div class="relative" data-controller="dropdown" aria-haspopup="true" aria-expanded="false">
+      <div data-qa="post-menu" data-action="click->dropdown#toggle click@window->dropdown#hide" role="button" data-dropdown-target="button" tabindex="0" class="inline-block select-none" aria-label="글 더보기 메뉴">
+        <svg class="self-center w-4 h-4 fill-current text-gray-300"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-kebab"></use></svg>
+      </div>
+      <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
+        <div class="overflow-hidden text-sm bg-white border rounded shadow">
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyOTA3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMDc4WgY7AFQ%3D--03bb1da83fbf4e4a2f88e77b28a5c6a8b31d4018">신고</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+      <div class="mt-2 space-y-2 cursor-pointer" data-controller="box-link" data-box-link-url-value="/posts/Yyt6v1b">
+        <div class="group">
+          <div class="mb-0.5 text-base font-medium text-gray-800 break-all md:hidden line-clamp-2 decoration-gray-800 underline-offset-1">
+            <div class="hidden group-feed-event-main-topic-base:flex items-center justify-start text-purple-600 text-xxs mb-0.5">
+              <svg class="w-4 h-4 fill-current mr-0.5"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-up"></use></svg>
+              <span>이 토픽에서 뜨는 글</span>
+            </div>
+            <p class="group-hover:underline group-hover:cursor-pointer" data-qa="post-title">
+              조금...내 생각보다 시간이 없...나...?
+            </p>
+          </div>
+
+          <div class="flex h-14 sm:h-20">
+            <div class="flex-1">
+              <div class="hidden md:block">
+                <div class="hidden group-feed-event-main-topic-base:flex items-center justify-start text-purple-600 text-xxs mb-1.5">
+                  <svg class="w-4 h-4 fill-current mr-0.5"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-up"></use></svg>
+                  <span>이 토픽에서 뜨는 글</span>
+                </div>
+                <p class="mb-1 text-base font-medium text-gray-800 break-all line-clamp-1 group-hover:underline group-hover:cursor-pointer decoration-gray-800 underline-offset-1" data-qa="post-title">
+                  조금...내 생각보다 시간이 없...나...?
+                </p>
+              </div>
+              <h6 class="font-normal text-gray-500">
+    <a class="trix-content-post-partial" href="/posts/Yyt6v1b">
+      <div class="break-all trix-content md:group-feed-event-main-topic-base:line-clamp-2 group-post-body-line-clamp-base:line-clamp-2 line-clamp-3">
+          어제 응급실에 갔다 왔다.
+며칠 전 부터 손 발에 힘이 빠지고 두통이 조금 있는 것 같았다. 호흡기 내과 외래를 보고 신경과로 외래 접수를 하러 갔는데 신경과 접수 창구에서 간호사선생님이 응급실로 유턴시키셨기 때문. 응급실 너무 비싸고 아직 쓰러질 정도도 아닌데 외래 보면 안되냐 했더니 그러면 늦는단다... 네...?
+응급실 가서 접수를 하려는데 대학병원은 언제나 그렇지만 주말에는 북새통도 그런 북새통이 없다. 외래 환자 입원 환자도 많지만 응급실은 더 많아서 대기자 의자에 널부러저 있는데 날이 더워선지 몸이 좀 축축 늘어지고 멍-했다. 응급실 접수하는 의료진이 보기에도 이상할 만큼.
+직접 날 부르러 와서는 어디가 아파서 오셨냐길래 어물어물 말을 했더니 5분도 되지 않아서 응급실로 입성했다. 알고봤더니 이미 안면마비가 와서 말도 다 뭉게지고 표정도 딱 뇌졸중 환자 표정이었단다.
+안면마비 탓에 응급실에서 하는 간단한 환자 정보 수집, 이를테면 보호자 전화번호나 보호자와의 관계 뭐...
+      </div>
+</a></h6>
+            </div>
+              <div class="w-32 ml-2 basis-1/4 md:basis-auto">
+                <img class="aspect-13/8 object-cover rounded border border-gray-200 h-14 sm:h-20 min-w-fit" data-qa="post-cover" loading="lazy" src="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeHdmQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4a9f3fe47bdba6849c1e8d5bbcd69971e578f763/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/20220625_101807.jpg">
+              </div>
+          </div>
+        </div>
+        <div class="flex items-center text-xs font-light text-gray-500">
+  <div class="mr-2 group-post-topic-invisible-base:hidden">
+    <div class="group-post-topic-invisible-base:hidden">
+    <span class="inline-block">
+      <button type="button" class="flex items-center px-2 py-1 text-xs font-light text-gray-500 border border-gray-200 rounded lg:hover:bg-gray-100/40 active:bg-gray-100/40">
+        <a href="/topics/life">
+          라이프
+</a>      </button>
+    </span>
+</div>
+  </div>
+  <div class="flex items-center space-x-2">
+    <span class="flex items-center flex-none px-2 py-1 border rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40">
+      <a class="inline-block h-full whitespace-nowrap" href="/posts/Yyt6v1b#reply">
+          <svg class="inline-block h-3.5 w-3.5 text-gray-400 fill-current"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-article"></use></svg>
+          <span data-qa="children-count">10</span>
+</a>    </span>
+    <div class="h-full whitespace-nowrap like_button_post_Yyt6v1b border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyOTA3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMDgyWgY7AFQ%3D--54920b8a79b1086814b9b6237959fa06b1334150"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
+    <span class="font-light ">
+      29
+    </span>
+</button><input type="hidden" name="authenticity_token" value="l-mPrJIeChWoRfSObNtrmvuOR4Zv5PqRbcrnWUlOpnBtKIkiN93w2c9IWukqLLkTR3nqIhuzBZxYrMkOSSufjQ" autocomplete="off"></form></div>
+  </div>
+</div>
+      </div>
+  </div>]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeHdmQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4a9f3fe47bdba6849c1e8d5bbcd69971e578f763/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/20220625_101807.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하루시급 19만원 (alookso ─ 토픽 ─ 뜨는 글)]]></title>
@@ -389,7 +389,7 @@
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyODc3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNTEyWgY7AFQ%3D--a2073cb0ec1a3b6b8c6d8035adb5df1e66a6d350">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyODc3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMDg3WgY7AFQ%3D--ef1975f1ad8cbe98117ad53b61fff9f1c98d4606">신고</a>
         </div>
       </div>
     </div>
@@ -451,12 +451,12 @@
           <span data-qa="children-count">5</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_4Xtw2yp border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyODc3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNTE2WgY7AFQ%3D--b186acc024ca14c0f728bd1957b3a398e2f00ea1"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyODc3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMDkwWgY7AFQ%3D--7e06da2605ed913179993c13455a548ae7605834"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       15
     </span>
-</button><input type="hidden" name="authenticity_token" value="ljE4sq2UIxEnsB98NBt62vQ-jONkRgzg2ILVhijxP_GU_rJpE0x26wGEJ801h3aWASGwFW3gOxz9U_cWH4xqGw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="l-mPrJIeChWoRfSObNtrmvuOR4Zv5PqRbcrnWUlOpnBtKIkiN93w2c9IWukqLLkTR3nqIhuzBZxYrMkOSSufjQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -496,7 +496,7 @@
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyODk0BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNTIwWgY7AFQ%3D--d42e7cbe897a2f0ed59af973d80701c1ca0c8f19">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyODk0BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMDk0WgY7AFQ%3D--481b008c49c792c547067b521a057295f538c55d">신고</a>
         </div>
       </div>
     </div>
@@ -556,12 +556,12 @@
           <span data-qa="children-count">2</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_Yyt6v16 border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyODk0BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNTIzWgY7AFQ%3D--8bbb042b59c5f2a6f70d093168e001538e76726f"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyODk0BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMDk4WgY7AFQ%3D--a43a6e0018b2abb5d738130721fdeedda7561578"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       12
     </span>
-</button><input type="hidden" name="authenticity_token" value="ljE4sq2UIxEnsB98NBt62vQ-jONkRgzg2ILVhijxP_GU_rJpE0x26wGEJ801h3aWASGwFW3gOxz9U_cWH4xqGw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="l-mPrJIeChWoRfSObNtrmvuOR4Zv5PqRbcrnWUlOpnBtKIkiN93w2c9IWukqLLkTR3nqIhuzBZxYrMkOSSufjQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -601,7 +601,7 @@
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyNzIxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNTI4WgY7AFQ%3D--47ddc77a8d2e418b5584254e69da966a1358ac45">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyNzIxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMTAyWgY7AFQ%3D--1a3c87cda7c8acedc58fa3dce8296f4a95ce4418">신고</a>
         </div>
       </div>
     </div>
@@ -671,12 +671,12 @@
           <span data-qa="children-count">7</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_3wtX6yo border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyNzIxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNTQxWgY7AFQ%3D--388b96dbc048ddbb9ac8e3047d8274137c4eafdc"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyNzIxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMTE2WgY7AFQ%3D--01825347c194cc3c30674b75fb92cca790286554"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       15
     </span>
-</button><input type="hidden" name="authenticity_token" value="ljE4sq2UIxEnsB98NBt62vQ-jONkRgzg2ILVhijxP_GU_rJpE0x26wGEJ801h3aWASGwFW3gOxz9U_cWH4xqGw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="l-mPrJIeChWoRfSObNtrmvuOR4Zv5PqRbcrnWUlOpnBtKIkiN93w2c9IWukqLLkTR3nqIhuzBZxYrMkOSSufjQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -716,7 +716,7 @@
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyNTkyBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNTQ2WgY7AFQ%3D--7ee373c9cd6ab7c7c3b75ce312fda58d10ada2df">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyNTkyBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMTIwWgY7AFQ%3D--39fb93b46178bf5583dea7b607b508449a1c3d13">신고</a>
         </div>
       </div>
     </div>
@@ -788,15 +788,15 @@ Ph 지수가 0 에 가까울수록 산성이, 반대로 숮자가 높아질수�
     <span class="flex items-center flex-none px-2 py-1 border rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40">
       <a class="inline-block h-full whitespace-nowrap" href="/posts/70tky15#reply">
           <svg class="inline-block h-3.5 w-3.5 text-gray-400 fill-current"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-article"></use></svg>
-          <span data-qa="children-count">5</span>
+          <span data-qa="children-count">6</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_70tky15 border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyNTkyBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNTQ5WgY7AFQ%3D--d4dc538fd33f831de5f099970f1159c3609f3adb"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyNTkyBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMTI0WgY7AFQ%3D--98a50857b789dc8716fa15ca055acf7071f0b8b3"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
-      13
+      14
     </span>
-</button><input type="hidden" name="authenticity_token" value="ljE4sq2UIxEnsB98NBt62vQ-jONkRgzg2ILVhijxP_GU_rJpE0x26wGEJ801h3aWASGwFW3gOxz9U_cWH4xqGw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="l-mPrJIeChWoRfSObNtrmvuOR4Zv5PqRbcrnWUlOpnBtKIkiN93w2c9IWukqLLkTR3nqIhuzBZxYrMkOSSufjQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -847,7 +847,7 @@ Ph 지수가 0 에 가까울수록 산성이, 반대로 숮자가 높아질수�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyODgzBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNTY4WgY7AFQ%3D--16bb313b1efd2f40e47e5680d68d62bc885ab649">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyODgzBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMTQzWgY7AFQ%3D--9bab60dda5db2bd74c676602ae8392a0c9dd944a">신고</a>
         </div>
       </div>
     </div>
@@ -915,12 +915,12 @@ Ph 지수가 0 에 가까울수록 산성이, 반대로 숮자가 높아질수�
           <span data-qa="comments-count">1</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_VntWK6E border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyODgzBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNTczWgY7AFQ%3D--06cd29a123e721f6fc616e066f813e34bd9f1bc8"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyODgzBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMTQ4WgY7AFQ%3D--c67cdc2c2e12c71fa6aa3cda0b72c5d505a9f223"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       7
     </span>
-</button><input type="hidden" name="authenticity_token" value="ljE4sq2UIxEnsB98NBt62vQ-jONkRgzg2ILVhijxP_GU_rJpE0x26wGEJ801h3aWASGwFW3gOxz9U_cWH4xqGw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="l-mPrJIeChWoRfSObNtrmvuOR4Zv5PqRbcrnWUlOpnBtKIkiN93w2c9IWukqLLkTR3nqIhuzBZxYrMkOSSufjQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -971,7 +971,7 @@ Ph 지수가 0 에 가까울수록 산성이, 반대로 숮자가 높아질수�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyNzc2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNTg3WgY7AFQ%3D--b320105e57043cf3b91c8af80d237888199acd8f">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyNzc2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMTYxWgY7AFQ%3D--1e35ba33427cea3d99ed90079954f61187ce9ee9">신고</a>
         </div>
       </div>
     </div>
@@ -1028,12 +1028,12 @@ Ph 지수가 0 에 가까울수록 산성이, 반대로 숮자가 높아질수�
           <span data-qa="comments-count">1</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_4Xtw294 border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyNzc2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNTkwWgY7AFQ%3D--b037b5b50a52978f20eb7fe61fabb1c74a392213"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyNzc2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMTY0WgY7AFQ%3D--18cd8228edd4890b7975b0dfae63233399316db7"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       5
     </span>
-</button><input type="hidden" name="authenticity_token" value="ljE4sq2UIxEnsB98NBt62vQ-jONkRgzg2ILVhijxP_GU_rJpE0x26wGEJ801h3aWASGwFW3gOxz9U_cWH4xqGw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="l-mPrJIeChWoRfSObNtrmvuOR4Zv5PqRbcrnWUlOpnBtKIkiN93w2c9IWukqLLkTR3nqIhuzBZxYrMkOSSufjQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -1073,7 +1073,7 @@ Ph 지수가 0 에 가까울수록 산성이, 반대로 숮자가 높아질수�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMxNjY2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNTk1WgY7AFQ%3D--3b3fdcc278a805000c6eb09ed29453f7471d3f7f">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMxNjY2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMTY5WgY7AFQ%3D--e7f6af79b33f25c13973bf78b7abf008dea40221">신고</a>
         </div>
       </div>
     </div>
@@ -1137,12 +1137,12 @@ Ph 지수가 0 에 가까울수록 산성이, 반대로 숮자가 높아질수�
           <span data-qa="children-count">2</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_M9t4ev3 border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMxNjY2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNTk4WgY7AFQ%3D--0048c0c7cbabc40da37799dfd119fd8e813a32ce"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMxNjY2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMTcyWgY7AFQ%3D--b4106634845885a07dda8c1809545d289b0cd650"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       18
     </span>
-</button><input type="hidden" name="authenticity_token" value="ljE4sq2UIxEnsB98NBt62vQ-jONkRgzg2ILVhijxP_GU_rJpE0x26wGEJ801h3aWASGwFW3gOxz9U_cWH4xqGw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="l-mPrJIeChWoRfSObNtrmvuOR4Zv5PqRbcrnWUlOpnBtKIkiN93w2c9IWukqLLkTR3nqIhuzBZxYrMkOSSufjQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -1182,7 +1182,7 @@ Ph 지수가 0 에 가까울수록 산성이, 반대로 숮자가 높아질수�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMxNzkyBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNjAzWgY7AFQ%3D--61ebd716a6af14fb016a49dfc198bc63cb8de85f">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMxNzkyBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMTc3WgY7AFQ%3D--889ccfaec12c3c51ad3795ddac5565abb12dee68">신고</a>
         </div>
       </div>
     </div>
@@ -1250,12 +1250,12 @@ Ph 지수가 0 에 가까울수록 산성이, 반대로 숮자가 높아질수�
           <span data-qa="children-count">2</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_92t7vD1 border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMxNzkyBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNjA2WgY7AFQ%3D--52fe9533c08013aff2a51b042481add6fb3a7cdd"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMxNzkyBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMTgwWgY7AFQ%3D--da6a01fc1f9353ab1b1a63ecef4b544edd2453f6"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       5
     </span>
-</button><input type="hidden" name="authenticity_token" value="ljE4sq2UIxEnsB98NBt62vQ-jONkRgzg2ILVhijxP_GU_rJpE0x26wGEJ801h3aWASGwFW3gOxz9U_cWH4xqGw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="l-mPrJIeChWoRfSObNtrmvuOR4Zv5PqRbcrnWUlOpnBtKIkiN93w2c9IWukqLLkTR3nqIhuzBZxYrMkOSSufjQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -1295,7 +1295,7 @@ Ph 지수가 0 에 가까울수록 산성이, 반대로 숮자가 높아질수�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMxNTU2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNjEwWgY7AFQ%3D--34c140517488d65f7c73a84b3c0dfc6a4d77b425">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMxNTU2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMTg1WgY7AFQ%3D--075f0ee898cb629abefa36d47760ed500d1c2c97">신고</a>
         </div>
       </div>
     </div>
@@ -1385,12 +1385,12 @@ Ph 지수가 0 에 가까울수록 산성이, 반대로 숮자가 높아질수�
           <span data-qa="children-count">3</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_LKt7Lo1 border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMxNTU2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNjQ4WgY7AFQ%3D--b324ceeece1cc6d2b8a96bb70ee789928fb2c810"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMxNTU2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMjIwWgY7AFQ%3D--a7eb83970a57168d5f13a51f3621de17e8d2db89"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       24
     </span>
-</button><input type="hidden" name="authenticity_token" value="ljE4sq2UIxEnsB98NBt62vQ-jONkRgzg2ILVhijxP_GU_rJpE0x26wGEJ801h3aWASGwFW3gOxz9U_cWH4xqGw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="l-mPrJIeChWoRfSObNtrmvuOR4Zv5PqRbcrnWUlOpnBtKIkiN93w2c9IWukqLLkTR3nqIhuzBZxYrMkOSSufjQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -1442,7 +1442,7 @@ Ph 지수가 0 에 가까울수록 산성이, 반대로 숮자가 높아질수�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMxNDY4BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNjU0WgY7AFQ%3D--ec33d919f3bb9cfc50f6806ffd5da3303dff9181">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMxNDY4BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMjI2WgY7AFQ%3D--76e80e3f837dca221cae8781924f73eba6ca1309">신고</a>
         </div>
       </div>
     </div>
@@ -1501,12 +1501,12 @@ Ph 지수가 0 에 가까울수록 산성이, 반대로 숮자가 높아질수�
           <span data-qa="comments-count">1</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_zvtJ5Lr border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMxNDY4BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNjU4WgY7AFQ%3D--3ccb7c797d20b86cd10992005e57dcff2bd2dad5"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMxNDY4BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMjI5WgY7AFQ%3D--13e22046456db3817812e249b041a5fc19d1f246"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       9
     </span>
-</button><input type="hidden" name="authenticity_token" value="ljE4sq2UIxEnsB98NBt62vQ-jONkRgzg2ILVhijxP_GU_rJpE0x26wGEJ801h3aWASGwFW3gOxz9U_cWH4xqGw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="l-mPrJIeChWoRfSObNtrmvuOR4Zv5PqRbcrnWUlOpnBtKIkiN93w2c9IWukqLLkTR3nqIhuzBZxYrMkOSSufjQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -1557,7 +1557,7 @@ Ph 지수가 0 에 가까울수록 산성이, 반대로 숮자가 높아질수�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMxMzU1BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNjY1WgY7AFQ%3D--71823c236cc8fc17dd9227e99408ab36b34fab22">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMxMzU1BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMjM3WgY7AFQ%3D--1b3869b0b10484d8fe7efce5a3bf3ae322348169">신고</a>
         </div>
       </div>
     </div>
@@ -1614,12 +1614,12 @@ Ph 지수가 0 에 가까울수록 산성이, 반대로 숮자가 높아질수�
           댓글
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_BatBr15 border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMxMzU1BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNjcwWgY7AFQ%3D--d80b28fafda908d39dc34a91835bd694fa18ac46"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMxMzU1BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMjgwWgY7AFQ%3D--12d0be2b117e7f6b114bffdccd04ecb4522b5626"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       9
     </span>
-</button><input type="hidden" name="authenticity_token" value="ljE4sq2UIxEnsB98NBt62vQ-jONkRgzg2ILVhijxP_GU_rJpE0x26wGEJ801h3aWASGwFW3gOxz9U_cWH4xqGw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="l-mPrJIeChWoRfSObNtrmvuOR4Zv5PqRbcrnWUlOpnBtKIkiN93w2c9IWukqLLkTR3nqIhuzBZxYrMkOSSufjQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -1670,7 +1670,7 @@ Ph 지수가 0 에 가까울수록 산성이, 반대로 숮자가 높아질수�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMxMzk3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNjc3WgY7AFQ%3D--32bbf62b8a682902190e688cad7533413e71483f">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMxMzk3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMjg4WgY7AFQ%3D--09144eb94881c47e0ff765a1c893fbeaebc893de">신고</a>
         </div>
       </div>
     </div>
@@ -1727,12 +1727,12 @@ Ph 지수가 0 에 가까울수록 산성이, 반대로 숮자가 높아질수�
           <span data-qa="comments-count">1</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_q1tnJLG border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMxMzk3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNjgyWgY7AFQ%3D--45953d13ff5c5a0f4c8f568678a138d15499a679"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMxMzk3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMjk0WgY7AFQ%3D--31a69f26a93dcf00a081658cd133e0e9eac3103c"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       5
     </span>
-</button><input type="hidden" name="authenticity_token" value="ljE4sq2UIxEnsB98NBt62vQ-jONkRgzg2ILVhijxP_GU_rJpE0x26wGEJ801h3aWASGwFW3gOxz9U_cWH4xqGw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="l-mPrJIeChWoRfSObNtrmvuOR4Zv5PqRbcrnWUlOpnBtKIkiN93w2c9IWukqLLkTR3nqIhuzBZxYrMkOSSufjQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -1772,7 +1772,7 @@ Ph 지수가 0 에 가까울수록 산성이, 반대로 숮자가 높아질수�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyNjYwBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNjg2WgY7AFQ%3D--07e3b90bc4e43bdc96e53afc946c4bbfd5f3b05b">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyNjYwBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMjk5WgY7AFQ%3D--7a99a24569e83077b7ba39ca7fc767867245ca8b">신고</a>
         </div>
       </div>
     </div>
@@ -1844,12 +1844,12 @@ Ph 지수가 0 에 가까울수록 산성이, 반대로 숮자가 높아질수�
           <span data-qa="children-count">19</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_vKt18a8 border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyNjYwBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNjkwWgY7AFQ%3D--90db9710501eabbe3422e847074364fa6c9a2880"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyNjYwBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMzAzWgY7AFQ%3D--1f63acac72785ad55908eb6419c82dde4ffeb7b7"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       41
     </span>
-</button><input type="hidden" name="authenticity_token" value="ljE4sq2UIxEnsB98NBt62vQ-jONkRgzg2ILVhijxP_GU_rJpE0x26wGEJ801h3aWASGwFW3gOxz9U_cWH4xqGw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="l-mPrJIeChWoRfSObNtrmvuOR4Zv5PqRbcrnWUlOpnBtKIkiN93w2c9IWukqLLkTR3nqIhuzBZxYrMkOSSufjQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -1869,7 +1869,7 @@ Ph 지수가 0 에 가까울수록 산성이, 반대로 숮자가 높아질수�
           <a href="/users/Bet5Jd"><img style="width: 20.0px; height: 20.0px;" class="inline rounded-full object-cover border border-gray-200 bg-white " onerror="this.onerror=null;this.src='https://alook.so/assets/icons/icon-solid-user-7eac5bc0e82de02349582eac9ce9eb63104851bcb1a099b6985ce52d281b575f.svg'" alt="DunDun C" src="https://alook.so/assets/icons/icon-solid-user-7eac5bc0e82de02349582eac9ce9eb63104851bcb1a099b6985ce52d281b575f.svg" width="20.0px" height="20.0px"></a>
       </div>
       <span data-qa="parent-post-title" class="text-xs text-gray-800 line-clamp-1">
-        조금...내 생각보다 시간이 ��...나...?
+        조금...내 생각보다 시간이 없...나...?
       </span>
     </div>
 </div>
@@ -1901,7 +1901,7 @@ Ph 지수가 0 에 가까울수록 산성이, 반대로 숮자가 높아질수�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyOTUyBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNjk2WgY7AFQ%3D--a614632cc0fd90ef168c94b54b57aec03e5df01a">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyOTUyBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMzA4WgY7AFQ%3D--73f3f1a196a88eb549bd515eecd247d5a2e27b7b">신고</a>
         </div>
       </div>
     </div>
@@ -1964,12 +1964,12 @@ Ph 지수가 0 에 가까울수록 산성이, 반대로 숮자가 높아질수�
           <span data-qa="comments-count">4</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_70tkylY border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyOTUyBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNzAwWgY7AFQ%3D--18659ff6c61049d8489382cc39c82ec5da683daa"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyOTUyBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMzEyWgY7AFQ%3D--e2ba97addc8e0f21c9500b2faf261ee43eb5f767"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       15
     </span>
-</button><input type="hidden" name="authenticity_token" value="ljE4sq2UIxEnsB98NBt62vQ-jONkRgzg2ILVhijxP_GU_rJpE0x26wGEJ801h3aWASGwFW3gOxz9U_cWH4xqGw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="l-mPrJIeChWoRfSObNtrmvuOR4Zv5PqRbcrnWUlOpnBtKIkiN93w2c9IWukqLLkTR3nqIhuzBZxYrMkOSSufjQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -2009,7 +2009,7 @@ Ph 지수가 0 에 가까울수록 산성이, 반대로 숮자가 높아질수�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyOTE4BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNzA2WgY7AFQ%3D--556ebb2af34ae051a908dae84e55183bd1b17119">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyOTE4BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMzE2WgY7AFQ%3D--f85584e00714f3ce90b541f7e66d9a7249233562">신고</a>
         </div>
       </div>
     </div>
@@ -2097,12 +2097,12 @@ Ph 지수가 0 에 가까울수록 산성이, 반대로 숮자가 높아질수�
           <span data-qa="children-count">3</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_E7t9LVr border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyOTE4BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNzEyWgY7AFQ%3D--96b4138d57d5554436db0dea2a1c58671f44aba6"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyOTE4BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMzIzWgY7AFQ%3D--2e45b788a254081680bea7f42ee211c185d9e049"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       16
     </span>
-</button><input type="hidden" name="authenticity_token" value="ljE4sq2UIxEnsB98NBt62vQ-jONkRgzg2ILVhijxP_GU_rJpE0x26wGEJ801h3aWASGwFW3gOxz9U_cWH4xqGw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="l-mPrJIeChWoRfSObNtrmvuOR4Zv5PqRbcrnWUlOpnBtKIkiN93w2c9IWukqLLkTR3nqIhuzBZxYrMkOSSufjQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -2142,7 +2142,7 @@ Ph 지수가 0 에 가까울수록 산성이, 반대로 숮자가 높아질수�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyNjIxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNzE5WgY7AFQ%3D--be1cb2485a22637ce947c2f9d233d2bd7a472d1f">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyNjIxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMzMwWgY7AFQ%3D--d6d698fbe13cc9193cf552489c5ce4c5600f0e4f">신고</a>
         </div>
       </div>
     </div>
@@ -2221,12 +2221,12 @@ Ph 지수가 0 에 가까울수록 산성이, 반대로 숮자가 높아질수�
           <span data-qa="children-count">15</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_6Mt6o7r border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyNjIxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNzI4WgY7AFQ%3D--1dc8ee94ec7503ce86267103d0f5219a0db86383"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyNjIxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMzQxWgY7AFQ%3D--0708f439b7edfede591127f1de644bf0b8a875e1"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       32
     </span>
-</button><input type="hidden" name="authenticity_token" value="ljE4sq2UIxEnsB98NBt62vQ-jONkRgzg2ILVhijxP_GU_rJpE0x26wGEJ801h3aWASGwFW3gOxz9U_cWH4xqGw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="l-mPrJIeChWoRfSObNtrmvuOR4Zv5PqRbcrnWUlOpnBtKIkiN93w2c9IWukqLLkTR3nqIhuzBZxYrMkOSSufjQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
@@ -2267,7 +2267,7 @@ Ph 지수가 0 에 가까울수록 산성이, 반대로 숮자가 높아질수�
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyODkxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNzMzWgY7AFQ%3D--0de5de7d90ff0e13cee073106b429330fe6a2ebb">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyODkxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMzQ2WgY7AFQ%3D--a4d874c19f65fee850bb7d128d877afc69276278">신고</a>
         </div>
       </div>
     </div>
@@ -2338,12 +2338,12 @@ Ph 지수가 0 에 가까울수록 산성이, 반대로 숮자가 높아질수�
           <span data-qa="children-count">5</span>
 </a>    </span>
     <div class="h-full whitespace-nowrap like_button_post_bWtB2MV border rounded-xl py-1 px-2 lg:hover:bg-gray-100/40 active:bg-gray-100/40 ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyODkxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTc6MTU6NTguNzM2WgY7AFQ%3D--0b8b48e7d2bb966083d21a060ec8d8113be823d3"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjMyODkxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDctMjZUMTg6MTg6NDguMzUwWgY7AFQ%3D--0240f700d2e3c1cb7a23aa5201183302fee30946"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 "><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       15
     </span>
-</button><input type="hidden" name="authenticity_token" value="ljE4sq2UIxEnsB98NBt62vQ-jONkRgzg2ILVhijxP_GU_rJpE0x26wGEJ801h3aWASGwFW3gOxz9U_cWH4xqGw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="l-mPrJIeChWoRfSObNtrmvuOR4Zv5PqRbcrnWUlOpnBtKIkiN93w2c9IWukqLLkTR3nqIhuzBZxYrMkOSSufjQ" autocomplete="off"></form></div>
   </div>
 </div>
       </div>
