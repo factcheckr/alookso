@@ -4,7 +4,7 @@
         <title>alookso ─ 토픽 ─ 뜨는 글</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 20:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 21:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,7 +41,7 @@
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNzY4BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTY6MjAuODE5WgY7AFQ%3D--d67d8b8d9063db9a80e32b145d8d1dff81bba5c7">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNzY4BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTA6MDEuNzE5WgY7AFQ%3D--1f6e34544f49863e883962b0c25611d3e80dd6d6">신고</a>
         </div>
       </div>
     </div>
@@ -116,16 +116,16 @@
     <span class="flex items-center flex-none px-2 py-1 border rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40">
       <a class="inline-block h-full whitespace-nowrap" href="/posts/jdt3eB4#reply">
           <svg class="inline-block h-3.5 w-3.5 text-gray-400 fill-current"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-article"></use></svg>
-          <span data-qa="children-count">17</span>
+          <span data-qa="children-count">18</span>
 </a>    </span>
     
   <div class="like_button_post_jdt3eB4 h-full px-2 py-1 border whitespace-nowrap rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40  ">
-    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNzY4BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTc6MDIuOTk5WgY7AFQ%3D--f91a0bbea95e7c105fcf07c9996663498a5fa277"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNzY4BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTM6NTMuOTI2WgY7AFQ%3D--1db7464be89a1369b307fc448737e8d57c83d2ad"><button class="h-full whitespace-nowrap flex items-center" type="submit">
       <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 group-voted-by-me-base:text-purple-500 group-vote-now-base:animate-2-bounce"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
       <span class="font-light group-voted-by-me-base:text-purple-500">
-        36
+        38
       </span>
-</button><input type="hidden" name="authenticity_token" value="o3GF6DmhYF70waqiPWlLra_wF2XCFRX7s6hPbY7tOCgR-Hn_2zIl4wXCSMgugzH3PoVIdvrQt4TQtBeP2pem1g" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="YDnp3ILCK4LF4-iiDvFA7xOpwsPHsmQiYWog7B-2DXZ0zB7hmF5B4-ALkpbG3Gm2WcmC7o43Sj5iwHi3So1d8A" autocomplete="off"></form></div>
 
 
   </div>
@@ -133,6 +133,127 @@
       </div>
   </div>]]></content:encoded>
             <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMUt0Qmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fd654679e25aa6e0f7cbcfb7bf01fc6969146759/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/20220730_163858.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘 생일이었습니다:)  슬픔+기쁨!]]></title>
+            <link>https://alook.so/posts/latO5je</link>
+            <guid>https://alook.so/posts/latO5je</guid>
+            <pubDate>Sat, 30 Jul 2022 16:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<div id="post_latO5je" class="break-words min-w-0 bg-white post_latO5je" data-qa-post-id="260938">
+    
+      <div class="flex items-center justify-between text-gray-900">
+  <div class="flex-1 w-0 group-post-date-visible">
+      <div class="flex items-center space-x-1">
+    <div class="relative z-0 flex -space-x-3">
+        <a href="/users/YEt7Aj"><img style="width: 20.0px; height: 20.0px;" class="inline rounded-full object-cover border border-gray-200 bg-white " onerror="this.onerror=null;this.src='https://alook.so/assets/icons/icon-solid-user-7eac5bc0e82de02349582eac9ce9eb63104851bcb1a099b6985ce52d281b575f.svg'" alt="연하일휘" src="https://alook.so/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeUVwQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0b97bafe8f9364d9a0d81d305acaf8e2020a7b4a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RW5KbGMybDZaVjkwYjE5bWFYUmJCMllJTkdVeFFBZzZER052Ym5abGNuUkpJZ2hxY0djR093WlVPZ3B6WVhabGNuc0lPZ3h4ZFdGc2FYUjVhVlU2Q25OMGNtbHdWRG9QWW1GamEyZHliM1Z1WkZzSWFRSC9hUUgvYVFILyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--777c11f252aabf9495aa6dae6e0fb0f90a514449/20220618_175421.jpg" width="20.0px" height="20.0px"></a>
+    </div>
+    <div class="flex items-center font-medium text-gray-600 break-all text-xxs hover:underline decoration-gray-600 underline-offset-1">
+      <a href="/users/YEt7Aj">연하일휘</a>
+    </div>
+    <div class="items-center hidden group-post-date-visible-base:flex">
+      <span class="mr-1 text-xs text-gray-500">
+        ·
+      </span>
+      <div class="font-light text-gray-400 text-xxs">
+        2022/07/30
+      </div>
+    </div>
+  </div>
+
+  </div>
+    <div>
+    <div class="relative" data-controller="dropdown" aria-haspopup="true" aria-expanded="false">
+      <div data-qa="post-menu" data-action="click->dropdown#toggle click@window->dropdown#hide" role="button" data-dropdown-target="button" tabindex="0" class="inline-block select-none" aria-label="글 더보기 메뉴">
+        <svg class="self-center w-4 h-4 fill-current text-gray-300"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-kebab"></use></svg>
+      </div>
+      <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
+        <div class="overflow-hidden text-sm bg-white border rounded shadow">
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwOTM4BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTA6MDEuODQzWgY7AFQ%3D--8037becf1c34f3885d9d68753ead5889af8b2cae">신고</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+      <div class="mt-2 space-y-2 cursor-pointer" data-controller="box-link" data-box-link-url-value="/posts/latO5je">
+        <div class="group">
+          <div class="mb-0.5 text-base font-medium text-gray-800 break-all md:hidden line-clamp-2 decoration-gray-800 underline-offset-1">
+            <div class="hidden group-feed-event-main-topic-base:flex items-center justify-start text-purple-600 text-xxs mb-0.5">
+              <svg class="w-4 h-4 fill-current mr-0.5"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-up"></use></svg>
+              <span>이 토픽에서 뜨는 글</span>
+            </div>
+            <p class="group-hover:underline group-hover:cursor-pointer" data-qa="post-title">
+              오늘 생일이었습니다:)&nbsp; 슬픔+기쁨!
+            </p>
+          </div>
+
+          <div class="flex h-14 sm:h-20">
+            <div class="flex-1">
+              <div class="hidden md:block">
+                <div class="hidden group-feed-event-main-topic-base:flex items-center justify-start text-purple-600 text-xxs mb-1.5">
+                  <svg class="w-4 h-4 fill-current mr-0.5"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-up"></use></svg>
+                  <span>이 토픽에서 뜨는 글</span>
+                </div>
+                <p class="mb-1 text-base font-medium text-gray-800 break-all line-clamp-1 group-hover:underline group-hover:cursor-pointer decoration-gray-800 underline-offset-1" data-qa="post-title">
+                  오늘 생일이었습니다:)&nbsp; 슬픔+기쁨!
+                </p>
+              </div>
+              <h6 class="font-normal text-gray-500">
+    <a class="trix-content-post-partial" href="/posts/latO5je">
+      <div class="break-all trix-content md:group-feed-event-main-topic-base:line-clamp-2 group-post-body-line-clamp-base:line-clamp-2 line-clamp-3">
+          오늘은 제 생일이었습니다:) 아침에 글을 쓰며 슬쩍...축하받고 싶은 마음도 있었지만, 조금은 슬픈 생일이라 그 마음은 잠시 접어두고 하루를 마무리하며 글을 씁니다. 
+
+왜 슬픈 생일이냐구요? 아픔+태풍 덕에 집에 갇혀있는 생일이라서요.....확진자 수가 어마어마한 이 시국에, 인후통 가진 상태로 다른 친구를 만나는 것도 민폐려니와 태풍이 온다는 데 함부로 나갈 수 없으니까요....아니었으면 친구 꼬셔서 카멜리아힐을 다녀오고 싶었습니다. 초록초록이들이 보고 싶은....간만에 가고싶은 곳이 생겼는데...... 
+
+오늘 병원에 다녀온 뒤에 쭉 약기운에 취해 있는 듯합니다. 정말 졸리네요. 근데 잠이 들려는 찰나에 걸려오는 전화들. 덕분에 오늘 낮에 살짝 졸다가 깨고 졸다가 깨며 보낸듯합니다ㅎㅎ&nbsp;
+
+어머니도 생일이라고 전화를 주셨네요.&nbsp;
+
+
+"집에 비 안 들어왔니?"
+&nbsp;"응. 이번엔 괜찮아요. 옆에 물 고인건 이따 빼려구."
+&nbsp;"미역국은 먹었어?"
+&nbsp;"엄마가 어제 준 감자탕 먹는 중...
+      </div>
+</a></h6>
+            </div>
+              <div class="w-32 ml-2 basis-1/4 md:basis-auto">
+                <img class="aspect-13/8 object-cover rounded border border-gray-200 h-14 sm:h-20 min-w-fit" data-qa="post-cover" loading="lazy" src="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMnl1Qmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--009d302f336569f935bb463d2088772c135e1261/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/birthday-gbe4f77afc_1920.jpg">
+              </div>
+          </div>
+        </div>
+        <div class="flex items-center text-xs font-light text-gray-500">
+  <div class="mr-2 group-post-topic-invisible-base:hidden">
+    <div class="group-post-topic-invisible-base:hidden">
+    <span class="inline-block">
+      <button type="button" class="flex items-center px-2 py-1 text-xs font-light text-gray-500 border border-gray-200 rounded lg:hover:bg-gray-100/40 active:bg-gray-100/40">
+        <a href="/topics/life">
+          라이프
+</a>      </button>
+    </span>
+</div>
+  </div>
+  <div class="flex items-center space-x-2">
+    <span class="flex items-center flex-none px-2 py-1 border rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40">
+      <a class="inline-block h-full whitespace-nowrap" href="/posts/latO5je#reply">
+          <svg class="inline-block h-3.5 w-3.5 text-gray-400 fill-current"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-article"></use></svg>
+          <span data-qa="children-count">25</span>
+</a>    </span>
+    
+  <div class="like_button_post_latO5je h-full px-2 py-1 border whitespace-nowrap rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40  ">
+    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwOTM4BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTM6NTQuMDE0WgY7AFQ%3D--fff15029838f8f7a6377e20e1d5a5a417f5b52e9"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+      <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 group-voted-by-me-base:text-purple-500 group-vote-now-base:animate-2-bounce"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
+      <span class="font-light group-voted-by-me-base:text-purple-500">
+        25
+      </span>
+</button><input type="hidden" name="authenticity_token" value="jK_NlVHk4DG1UyYkDxzv46sd1owO-KrQknicXXNvtw-YWjqoS3iKUJC7XBDHMca64X2WoUd9hMyR0sQGJlTniQ" autocomplete="off"></form></div>
+
+
+  </div>
+</div>
+      </div>
+  </div>]]></content:encoded>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMnl1Qmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--009d302f336569f935bb463d2088772c135e1261/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/birthday-gbe4f77afc_1920.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이름을 바꾸다...ㅎㅎ]]></title>
@@ -168,7 +289,7 @@
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNjMwBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTY6MjAuODQ5WgY7AFQ%3D--11d7e983d94128e52ea21cfdcbe9cf3559fa0b73">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNjMwBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTA6MDIuMDA4WgY7AFQ%3D--ad832ceae7f1ec53c34810da11bd6569454d050f">신고</a>
         </div>
       </div>
     </div>
@@ -240,12 +361,12 @@
 </a>    </span>
     
   <div class="like_button_post_q1tpnzx h-full px-2 py-1 border whitespace-nowrap rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40  ">
-    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNjMwBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTY6MjAuODU2WgY7AFQ%3D--7ff5edf0793f713e269c65c3b9fffe63b7893995"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNjMwBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTM6NTMuOTMxWgY7AFQ%3D--9dcba94fc6af0c0cbcbc4d74628b9b1bb372c2f2"><button class="h-full whitespace-nowrap flex items-center" type="submit">
       <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 group-voted-by-me-base:text-purple-500 group-vote-now-base:animate-2-bounce"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
       <span class="font-light group-voted-by-me-base:text-purple-500">
         42
       </span>
-</button><input type="hidden" name="authenticity_token" value="kDwr310Qf05jJLTpzd17sSyHd-Fu8F02ZvMX8W4NvRl32MWiDCAWYJtD6iaPNR0Ope8gu-oghgPzLDOkB_d80A" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="3Thyu2VK5fyMp1sp-Q52bDsWa8otpzDo_djWteT4NQfJzYWGf9aPnalPIR0xI181cXYr52QiHvT-co7uscNlgQ" autocomplete="off"></form></div>
 
 
   </div>
@@ -287,7 +408,7 @@
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNjg5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTY6MjAuODY0WgY7AFQ%3D--5ce2ebcb9776ab261a60ab60b475a4968bbcdad5">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNjg5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTA6MDIuMDI0WgY7AFQ%3D--0538da8d455f7daa13d0b9945092215539d8a386">신고</a>
         </div>
       </div>
     </div>
@@ -357,132 +478,18 @@
 </a>    </span>
     
   <div class="like_button_post_mbtE7nR h-full px-2 py-1 border whitespace-nowrap rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40  ">
-    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNjg5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTQ6MTQuNjM1WgY7AFQ%3D--b3f5d424dc14df8a5d6007504400eddfa2d5ca7a"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNjg5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTM6MjYuNTA0WgY7AFQ%3D--cf9a731a1795fb7b45165c7712117882c253cf08"><button class="h-full whitespace-nowrap flex items-center" type="submit">
       <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 group-voted-by-me-base:text-purple-500 group-vote-now-base:animate-2-bounce"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
       <span class="font-light group-voted-by-me-base:text-purple-500">
         38
       </span>
-</button><input type="hidden" name="authenticity_token" value="bivgS0QrX8nZnSq2eh2RN1CykboEF7rVYjI5P2772JsJLfak96dKhfVzTfeNozPPUopJemsQDAAbnBrgarQcdA" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="Lz5KIVN499EXu4qm0YLwxGRX_I7BkYOYkAmGHS5gql_6JP-8as2ltuDAevjaor7B9of5vyPHUZiqX2ZdpkvYBw" autocomplete="off"></form></div>
 
 
   </div>
 </div>
       </div>
   </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[비 오는 날 마주친 행복들(feat.병원 가는 길)]]></title>
-            <link>https://alook.so/posts/6Mte6y2</link>
-            <guid>https://alook.so/posts/6Mte6y2</guid>
-            <pubDate>Sat, 30 Jul 2022 05:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[<div id="post_6Mte6y2" class="break-words min-w-0 bg-white post_6Mte6y2" data-qa-post-id="260497">
-    
-      <div class="flex items-center justify-between text-gray-900">
-  <div class="flex-1 w-0 group-post-date-visible">
-      <div class="flex items-center space-x-1">
-    <div class="relative z-0 flex -space-x-3">
-        <a href="/users/YEt7Aj"><img style="width: 20.0px; height: 20.0px;" class="inline rounded-full object-cover border border-gray-200 bg-white " onerror="this.onerror=null;this.src='https://alook.so/assets/icons/icon-solid-user-7eac5bc0e82de02349582eac9ce9eb63104851bcb1a099b6985ce52d281b575f.svg'" alt="연하일휘" src="https://alook.so/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeUVwQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0b97bafe8f9364d9a0d81d305acaf8e2020a7b4a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RW5KbGMybDZaVjkwYjE5bWFYUmJCMllJTkdVeFFBZzZER052Ym5abGNuUkpJZ2hxY0djR093WlVPZ3B6WVhabGNuc0lPZ3h4ZFdGc2FYUjVhVlU2Q25OMGNtbHdWRG9QWW1GamEyZHliM1Z1WkZzSWFRSC9hUUgvYVFILyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--777c11f252aabf9495aa6dae6e0fb0f90a514449/20220618_175421.jpg" width="20.0px" height="20.0px"></a>
-    </div>
-    <div class="flex items-center font-medium text-gray-600 break-all text-xxs hover:underline decoration-gray-600 underline-offset-1">
-      <a href="/users/YEt7Aj">연하일휘</a>
-    </div>
-    <div class="items-center hidden group-post-date-visible-base:flex">
-      <span class="mr-1 text-xs text-gray-500">
-        ·
-      </span>
-      <div class="font-light text-gray-400 text-xxs">
-        2022/07/30
-      </div>
-    </div>
-  </div>
-
-  </div>
-    <div>
-    <div class="relative" data-controller="dropdown" aria-haspopup="true" aria-expanded="false">
-      <div data-qa="post-menu" data-action="click->dropdown#toggle click@window->dropdown#hide" role="button" data-dropdown-target="button" tabindex="0" class="inline-block select-none" aria-label="글 더보기 메뉴">
-        <svg class="self-center w-4 h-4 fill-current text-gray-300"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-kebab"></use></svg>
-      </div>
-      <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
-        <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNDk3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTY6MjAuOTI2WgY7AFQ%3D--84c12ea5938dba80a4f6f959197d1d4847a53ee0">신고</a>
-        </div>
-      </div>
-    </div>
-  </div>
-
-</div>
-      <div class="mt-2 space-y-2 cursor-pointer" data-controller="box-link" data-box-link-url-value="/posts/6Mte6y2">
-        <div class="group">
-          <div class="mb-0.5 text-base font-medium text-gray-800 break-all md:hidden line-clamp-2 decoration-gray-800 underline-offset-1">
-            <div class="hidden group-feed-event-main-topic-base:flex items-center justify-start text-purple-600 text-xxs mb-0.5">
-              <svg class="w-4 h-4 fill-current mr-0.5"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-up"></use></svg>
-              <span>이 토픽에서 뜨는 글</span>
-            </div>
-            <p class="group-hover:underline group-hover:cursor-pointer" data-qa="post-title">
-              비 오는 날 마주친 행복들(feat.병원 가는 길)
-            </p>
-          </div>
-
-          <div class="flex h-14 sm:h-20">
-            <div class="flex-1">
-              <div class="hidden md:block">
-                <div class="hidden group-feed-event-main-topic-base:flex items-center justify-start text-purple-600 text-xxs mb-1.5">
-                  <svg class="w-4 h-4 fill-current mr-0.5"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-up"></use></svg>
-                  <span>이 토픽에서 뜨는 글</span>
-                </div>
-                <p class="mb-1 text-base font-medium text-gray-800 break-all line-clamp-1 group-hover:underline group-hover:cursor-pointer decoration-gray-800 underline-offset-1" data-qa="post-title">
-                  비 오는 날 마주친 행복들(feat.병원 가는 길)
-                </p>
-              </div>
-              <h6 class="font-normal text-gray-500">
-    <a class="trix-content-post-partial" href="/posts/6Mte6y2">
-      <div class="break-all trix-content md:group-feed-event-main-topic-base:line-clamp-2 group-post-body-line-clamp-base:line-clamp-2 line-clamp-3">
-          태풍이 오고 있어요. 아침부터 굵은 빗방울이 내리더니 마치 하늘에 구멍이 뚫린 느낌입니다. 요 며칠간 목이 안 좋다 싶더니, 눈을 뜬 뒤부터 통증이 제법 심해 병원을 가기 위해 집을 나섰습니다. 비 오는 날의 운전은 위험하지만, 빗줄기가 생각보다 거세 결국 차를 타고 이동하였네요.
-
-병원 인근 골목에 차를 세우고, 병원을 향해 걸어갑니다. 저 앞에서 한 엄마와 아이가 보이네요. 우산을 들고 나오지 못한 듯, 발만 동동 구르나 싶더니 엄마가 아이의 머리 위로 가방을 씌워줍니다. 그리고 아이 손을 꼭 잡고 달려가네요. 엄마는 세찬 비를 맞으면서도, 아이는 비를 맞추지 않으려 달려가는 모습에 순간 제 우산을 건네줄 뻔 했습니다. 그냥, 그 엄마의 모습이 너무 예뻐보여서요.
-
-
-병원 앞 횡단보도, 건너편에서 우산을 이상하게 쓴 한 남자분이 보입니다. 중간중간 우산 위로 머리를 꺼내시더라구요. 옆으로 걸어가는 모습을 보니 아이를 꼭 안고 계시네요. 아이가 비를 맞을까 꼭 안고, 우산을 ...
-      </div>
-</a></h6>
-            </div>
-              <div class="w-32 ml-2 basis-1/4 md:basis-auto">
-                <img class="aspect-13/8 object-cover rounded border border-gray-200 h-14 sm:h-20 min-w-fit" data-qa="post-cover" loading="lazy" src="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeWlzQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--733ad8b181ddc45b7c56318fd8899a24ab858cf6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/corgi-gfa6da24fa_1920.jpg">
-              </div>
-          </div>
-        </div>
-        <div class="flex items-center text-xs font-light text-gray-500">
-  <div class="mr-2 group-post-topic-invisible-base:hidden">
-    <div class="group-post-topic-invisible-base:hidden">
-    <span class="inline-block">
-      <button type="button" class="flex items-center px-2 py-1 text-xs font-light text-gray-500 border border-gray-200 rounded lg:hover:bg-gray-100/40 active:bg-gray-100/40">
-        <a href="/topics/life">
-          라이프
-</a>      </button>
-    </span>
-</div>
-  </div>
-  <div class="flex items-center space-x-2">
-    <span class="flex items-center flex-none px-2 py-1 border rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40">
-      <a class="inline-block h-full whitespace-nowrap" href="/posts/6Mte6y2#reply">
-          <svg class="inline-block h-3.5 w-3.5 text-gray-400 fill-current"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-article"></use></svg>
-          <span data-qa="children-count">26</span>
-</a>    </span>
-    
-  <div class="like_button_post_6Mte6y2 h-full px-2 py-1 border whitespace-nowrap rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40  ">
-    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNDk3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTY6MjAuMDM0WgY7AFQ%3D--14791f1ef8388cef4df358411583bcfbeb8e0955"><button class="h-full whitespace-nowrap flex items-center" type="submit">
-      <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 group-voted-by-me-base:text-purple-500 group-vote-now-base:animate-2-bounce"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
-      <span class="font-light group-voted-by-me-base:text-purple-500">
-        51
-      </span>
-</button><input type="hidden" name="authenticity_token" value="Bf7OjMU5ZrTGMvzklZrKtGt0U1tWWKpdqTGldN9Zg1QKmWoCVXa0WtWipFKbPfB7bnzyaaO0bLN1cCVT1rSphg" autocomplete="off"></form></div>
-
-
-  </div>
-</div>
-      </div>
-  </div>]]></content:encoded>
-            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeWlzQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--733ad8b181ddc45b7c56318fd8899a24ab858cf6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/corgi-gfa6da24fa_1920.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웹툰작가들의 과로]]></title>
@@ -518,7 +525,7 @@
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwMzMxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTY6MjAuOTQzWgY7AFQ%3D--4d0773659d692ce378b39de374972e30353116d9">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwMzMxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTA6MDIuMDQxWgY7AFQ%3D--23442f3939ee49ebfe20670ca35b37f8d1b78337">신고</a>
         </div>
       </div>
     </div>
@@ -589,12 +596,12 @@
 </a>    </span>
     
   <div class="like_button_post_92t57Px h-full px-2 py-1 border whitespace-nowrap rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40  ">
-    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwMzMxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTQ6MzkuNTQyWgY7AFQ%3D--24523df1766815da3cdcf21d1677b08d5b72395d"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwMzMxBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTM6MzYuODM1WgY7AFQ%3D--6749b51d3495b6ca3acc31ed7e225a1acfda6e10"><button class="h-full whitespace-nowrap flex items-center" type="submit">
       <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 group-voted-by-me-base:text-purple-500 group-vote-now-base:animate-2-bounce"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
       <span class="font-light group-voted-by-me-base:text-purple-500">
         53
       </span>
-</button><input type="hidden" name="authenticity_token" value="M0z-5p7AcU2aglqPYYXpRvIOmpxPxV5ffBp5HQkO07ZUSugJLUxkAbZsPc6WO0u-8DZCXCDC6IoFtFrCDUEXWQ" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="0h7R0bgdOLTspf3pk6CJjoQ8IA_C9s3SktpiDEUOdjnH4LjtZhBk797bwEnjdTxoEWaGIqLdfL4RpVqH0JrYlQ" autocomplete="off"></form></div>
 
 
   </div>
@@ -636,7 +643,7 @@
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwODU1BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTY6MjAuOTU3WgY7AFQ%3D--982df261dc56d559a2676feac5cbdf9de6362d40">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwODU1BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTA6MDIuMDU3WgY7AFQ%3D--083122f6351c33697bef113391149e6553e875f5">신고</a>
         </div>
       </div>
     </div>
@@ -697,16 +704,16 @@
     <span class="flex items-center flex-none px-2 py-1 border rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40">
       <a class="inline-block h-full whitespace-nowrap" href="/posts/M9tb4mJ#reply">
           <svg class="inline-block h-3.5 w-3.5 text-gray-400 fill-current"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-article"></use></svg>
-          <span data-qa="children-count">6</span>
+          <span data-qa="children-count">7</span>
 </a>    </span>
     
   <div class="like_button_post_M9tb4mJ h-full px-2 py-1 border whitespace-nowrap rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40  ">
-    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwODU1BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTc6NDIuMzMyWgY7AFQ%3D--3bce7b474ebda11d87750164bb457fc44c52ef6e"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwODU1BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTQ6MjguMTIzWgY7AFQ%3D--44298ced31d2e02c8ebbfed0cd4b6461fc2803ed"><button class="h-full whitespace-nowrap flex items-center" type="submit">
       <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 group-voted-by-me-base:text-purple-500 group-vote-now-base:animate-2-bounce"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
       <span class="font-light group-voted-by-me-base:text-purple-500">
-        24
+        26
       </span>
-</button><input type="hidden" name="authenticity_token" value="3I8tDUPgKxtj6BYpIruz6H-Ckog7E3fKhYWIpYnYRYbdEE-UAtWVnbRVvQQs0HaDAFhFHVoJU3YF9fNbJ628gA" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="M83nkIbBzuv2NrFGdYaO0W5I7wCFG0zq684qOkn3Xi40Im-7s57nQMaBWE9pUYtVrqaat2JEkq5grdNUw0sOyg" autocomplete="off"></form></div>
 
 
   </div>
@@ -749,7 +756,7 @@
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwODY1BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTY6MjAuOTg0WgY7AFQ%3D--2c58f04c74a70b06e21e336167a8f3357af9ff1b">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwODY1BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTA6MDIuMDc0WgY7AFQ%3D--74781fefc1abca4e05498e0f5b2997ecf650364f">신고</a>
         </div>
       </div>
     </div>
@@ -832,16 +839,16 @@
     <span class="flex items-center flex-none px-2 py-1 border rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40">
       <a class="inline-block h-full whitespace-nowrap" href="/posts/dztX7qB#reply">
           <svg class="inline-block h-3.5 w-3.5 text-gray-400 fill-current"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-article"></use></svg>
-          <span data-qa="children-count">3</span>
+          <span data-qa="children-count">4</span>
 </a>    </span>
     
   <div class="like_button_post_dztX7qB h-full px-2 py-1 border whitespace-nowrap rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40  ">
-    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwODY1BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTc6MDAuMjc3WgY7AFQ%3D--a918b71c16728406b1ca9793cfeedee758da6bad"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwODY1BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTQ6MjguMTM5WgY7AFQ%3D--5f436bd36d9f4bc795dcbc9d67a9521ea2240b5c"><button class="h-full whitespace-nowrap flex items-center" type="submit">
       <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 group-voted-by-me-base:text-purple-500 group-vote-now-base:animate-2-bounce"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
       <span class="font-light group-voted-by-me-base:text-purple-500">
-        20
+        22
       </span>
-</button><input type="hidden" name="authenticity_token" value="3iAAD7ICH1wOJh3QEvtDJrcFqeC_GPBbjJtzf5-RYylL_jE7rShRe5FOum4ReV3GTYCoq6m2t7YUgzMhX0kSJg" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="eebridZP7NSxerXM5sRr7ajQwDyur1S1IqyvYjq0-Th-CWOi4xDFf4HNXMX6E25paD61i0nwivGpz1YMsAip3A" autocomplete="off"></form></div>
 
 
   </div>
@@ -884,7 +891,7 @@
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNDk1BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTY6MjAuOTk5WgY7AFQ%3D--b152500a1496970fff68a28e6e45fa8ea94b5569">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNDk1BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTA6MDIuMDg5WgY7AFQ%3D--5231ef6b5f3dc9acdcc4703d6e63953918c0b72b">신고</a>
         </div>
       </div>
     </div>
@@ -951,12 +958,12 @@ NPL(부실채권) : 양도세도 없...
 </a>    </span>
     
   <div class="like_button_post_8Wtoamr h-full px-2 py-1 border whitespace-nowrap rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40  ">
-    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNDk1BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTc6NDIuMzI4WgY7AFQ%3D--fb983d0452c20ddf61b7ecff87993afaca001fc7"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNDk1BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTM6MjYuNTE2WgY7AFQ%3D--7c04027943dc475a71ff124c1e978dea9c0c7bdf"><button class="h-full whitespace-nowrap flex items-center" type="submit">
       <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 group-voted-by-me-base:text-purple-500 group-vote-now-base:animate-2-bounce"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
       <span class="font-light group-voted-by-me-base:text-purple-500">
         34
       </span>
-</button><input type="hidden" name="authenticity_token" value="jI7zz7s7Gsk5EML2Ov2KUmZy5m_v5zWTe4OaIfarqhuNEZFW-g6kT-6tads0lk85Gagx-o79ES_78-HfWN5THQ" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="7flDdQItWWji7_nZ1fuEiyoWMXtUfcRpwFYjQAxO3jg44_boO5gLDxWUCYfe28qOuMY0SrYrFmn6AMMAhGWsYA" autocomplete="off"></form></div>
 
 
   </div>
@@ -998,7 +1005,7 @@ NPL(부실채권) : 양도세도 없...
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNzY5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTY6MjEuMDE2WgY7AFQ%3D--f8aeaaab8d5ac2a56f887708fa61822e28b743fa">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNzY5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTA6MDIuMTA0WgY7AFQ%3D--a199d522733540ee1a3332cc44b49649e4e6a58a">신고</a>
         </div>
       </div>
     </div>
@@ -1080,12 +1087,12 @@ NPL(부실채권) : 양도세도 없...
 </a>    </span>
     
   <div class="like_button_post_rDtpRWM h-full px-2 py-1 border whitespace-nowrap rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40  ">
-    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNzY5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTc6MDAuMjgyWgY7AFQ%3D--c59b58bbde033c7403a310cf1f4dd7c9800a6f56"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNzY5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTA6MDYuMTYzWgY7AFQ%3D--f2c0e90422cc67f61c77751ba49ef1b6a14735c6"><button class="h-full whitespace-nowrap flex items-center" type="submit">
       <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 group-voted-by-me-base:text-purple-500 group-vote-now-base:animate-2-bounce"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
       <span class="font-light group-voted-by-me-base:text-purple-500">
         21
       </span>
-</button><input type="hidden" name="authenticity_token" value="tOqGtBjwBnTDh33jqtB_IPFwkWXepoVF4x68fFOm08YhNLeAB9pIU1zv2l2pUmHAC_WQLsgIwqh7Bvwik36iyQ" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="WKeJMPHFnN9hZrb0Lz35Vcr2wCCa7Wxzx32ZLXjxBU9-cgU_RySUOJ9S_1UY_mMPkNf6bjdV0wUYkiB7HRDs3Q" autocomplete="off"></form></div>
 
 
   </div>
@@ -1128,7 +1135,7 @@ NPL(부실채권) : 양도세도 없...
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwODgzBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTY6MjEuMDMwWgY7AFQ%3D--2b48913c2e88e2c7c4f83470ac45e1e5ca8d6bb0">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwODgzBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTA6MDIuMTE5WgY7AFQ%3D--2b89384709574edc9adf3b9598c1d1cd92573d0b">신고</a>
         </div>
       </div>
     </div>
@@ -1205,12 +1212,12 @@ NPL(부실채권) : 양도세도 없...
 </a>    </span>
     
   <div class="like_button_post_rDtpRVr h-full px-2 py-1 border whitespace-nowrap rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40  ">
-    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwODgzBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTQ6MzguODg1WgY7AFQ%3D--fd95a76481a6951f5908e074e2c927f5a844db76"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwODgzBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTQ6MjguMDkwWgY7AFQ%3D--7f54b15abf316603dc08b0d8485ef473199397d1"><button class="h-full whitespace-nowrap flex items-center" type="submit">
       <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 group-voted-by-me-base:text-purple-500 group-vote-now-base:animate-2-bounce"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
       <span class="font-light group-voted-by-me-base:text-purple-500">
         16
       </span>
-</button><input type="hidden" name="authenticity_token" value="p0BatTbJKZcldJpn_EOmqmzpq4wk8GtJARSZ9TTbrkzARkxahUU82wma_SYL_QRSbtFzTEv33Zx4uroqMJRqow" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="H0m2zrUNgDzdpzT6CQOsp5NWFadiMfAtKKtONDXGXwcYpj7lgFKpl-0Q3fMV1KkjU7hgEIVuLmmjyLdav3oP4w" autocomplete="off"></form></div>
 
 
   </div>
@@ -1253,7 +1260,7 @@ NPL(부실채권) : 양도세도 없...
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNzUwBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTY6MjEuMDQ0WgY7AFQ%3D--4d42a00241c3311d958343f35ef53db193cf55b1">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNzUwBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTA6MDIuMTM1WgY7AFQ%3D--b19edc76acc68272fb36c900756139e6edc9b424">신고</a>
         </div>
       </div>
     </div>
@@ -1321,12 +1328,12 @@ NPL(부실채권) : 양도세도 없...
 </a>    </span>
     
   <div class="like_button_post_xltvy4z h-full px-2 py-1 border whitespace-nowrap rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40  ">
-    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNzUwBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTQ6MzkuNTIxWgY7AFQ%3D--24418bc47a0a5996d0445bf564cc52f807822e1f"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNzUwBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTQ6MjguMTQ4WgY7AFQ%3D--2937e5f2079052344245d0e6499604a89cddfbc9"><button class="h-full whitespace-nowrap flex items-center" type="submit">
       <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 group-voted-by-me-base:text-purple-500 group-vote-now-base:animate-2-bounce"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
       <span class="font-light group-voted-by-me-base:text-purple-500">
-        17
+        18
       </span>
-</button><input type="hidden" name="authenticity_token" value="gkNngOaDzNivAxLen-pZU5cXTPB9O5oZdUQEYpqOxdrlRXFvVQ_ZlIPtdZ9oVPurlS-UMBI8LMwM6ie9nsEBNQ" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="EC7GcNhqrdbuLF3r5edceZAizq6Q5e_Z7pKgVOjE78IXwU5b7TWEfd6btOL5MFn9UMy7GXe6MZ1l8Vk6Yni_Jg" autocomplete="off"></form></div>
 
 
   </div>
@@ -1379,7 +1386,7 @@ NPL(부실채권) : 양도세도 없...
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwOTA5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTY6MjEuMDcyWgY7AFQ%3D--d1f59550e69b75d6b59cfbd5c802cdc4f90c7e64">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwOTA5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTA6MDIuMTY2WgY7AFQ%3D--7ed36f4df26d66fd519c397a2b338cb584f239e5">신고</a>
         </div>
       </div>
     </div>
@@ -1442,12 +1449,12 @@ NPL(부실채권) : 양도세도 없...
 </a>    </span>
     
   <div class="like_button_post_w9tnree h-full px-2 py-1 border whitespace-nowrap rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40  ">
-    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwOTA5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTQ6MzguOTMwWgY7AFQ%3D--830f80f6434ea5241b2cd4e4e034962b9b9a940e"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwOTA5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTQ6MjguMTQ3WgY7AFQ%3D--c2da67c6ec49f0397c2e08ab89474a13ed42dd15"><button class="h-full whitespace-nowrap flex items-center" type="submit">
       <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 group-voted-by-me-base:text-purple-500 group-vote-now-base:animate-2-bounce"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
       <span class="font-light group-voted-by-me-base:text-purple-500">
         9
       </span>
-</button><input type="hidden" name="authenticity_token" value="8PoIql-T0wOy-34VgnHllVk_ZGU4MXPzE3aIg47oTWqX_B5F7B_GT54VGVR1z0dtWwe8pVc2xSZq2KtciqeJhQ" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="2t4l9BmtKZyiI4WQ6tTZW2c8ibXx-QcojHRAdBAEW0fdMa3fLPIAN5KUbJn2A9zfp9L8Aham2WwHF7kamrgLow" autocomplete="off"></form></div>
 
 
   </div>
@@ -1500,7 +1507,7 @@ NPL(부실채권) : 양도세도 없...
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNzYzBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTY6MjEuMDg5WgY7AFQ%3D--391f8a744fc5d5c40851ba9414bb9fc17b30bd29">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNzYzBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTA6MDIuMTgwWgY7AFQ%3D--81556eac5325a0d49dad85fe3e7b94379a9eb429">신고</a>
         </div>
       </div>
     </div>
@@ -1563,12 +1570,12 @@ NPL(부실채권) : 양도세도 없...
 </a>    </span>
     
   <div class="like_button_post_J5tW832 h-full px-2 py-1 border whitespace-nowrap rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40  ">
-    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNzYzBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTQ6MzkuNTMxWgY7AFQ%3D--22f5dc27e92e7cd1278e75f81052be44280f3bc5"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNzYzBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MDk6NTQuNjE3WgY7AFQ%3D--61ddf62be10372a071973b9e265aa57547e48bfc"><button class="h-full whitespace-nowrap flex items-center" type="submit">
       <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 group-voted-by-me-base:text-purple-500 group-vote-now-base:animate-2-bounce"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
       <span class="font-light group-voted-by-me-base:text-purple-500">
         11
       </span>
-</button><input type="hidden" name="authenticity_token" value="U5nWoXYHus6SwoEpY5H_q4GUFMT6keu6ZgxPVS6-GP40n8BOxYuvgr4s5miUL11Tg6zMBJWWXW8fomyKKvHcEQ" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="MQ-ShOP1V8RYtb0HML3atj3mZogMV-EHRzZlhd8W_mcpltntVFEVYGMScgz9HN-i-u2zdWZaiGepHe3t7WVDlQ" autocomplete="off"></form></div>
 
 
   </div>
@@ -1610,7 +1617,7 @@ NPL(부실채권) : 양도세도 없...
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjU5OTMyBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTY6MjEuMTA0WgY7AFQ%3D--b3e0c432833283e5af06928611a6fdd754a0dff7">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjU5OTMyBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTA6MDIuMTkzWgY7AFQ%3D--9c9881f867d51acf18d9799b2226b126526f6841">신고</a>
         </div>
       </div>
     </div>
@@ -1679,12 +1686,12 @@ NPL(부실채권) : 양도세도 없...
 </a>    </span>
     
   <div class="like_button_post_G1twoVR h-full px-2 py-1 border whitespace-nowrap rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40  ">
-    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjU5OTMyBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTQ6MzMuMzUwWgY7AFQ%3D--20b25bb19761baf880db2be014d5fc14379eb5cf"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjU5OTMyBjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTA6MDIuMjAxWgY7AFQ%3D--9ef98588e517aed651e9893f999e516381a56d89"><button class="h-full whitespace-nowrap flex items-center" type="submit">
       <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 group-voted-by-me-base:text-purple-500 group-vote-now-base:animate-2-bounce"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
       <span class="font-light group-voted-by-me-base:text-purple-500">
         36
       </span>
-</button><input type="hidden" name="authenticity_token" value="fSZjXMsIph--5Epy4f0wD5W_GZB3kFNyAnth_AGrq1rAbJjJo9hTMOv0Swuk45zrsKLM4O7lERLz3-_vKoAweQ" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="AZ13pycc6CZo-_ZYjX7At0uv8iivtfB-3ggVT5Y6n_9NVOe2__39Wp1zfthMwV8-v6m1lVVCodJw43XsG2C8TQ" autocomplete="off"></form></div>
 
 
   </div>
@@ -1738,7 +1745,7 @@ NPL(부실채권) : 양도세도 없...
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNTg5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTY6MjEuMTIwWgY7AFQ%3D--4c23f27dc522603c060778754e9ad4a879ad92a6">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNTg5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTA6MDIuMjEyWgY7AFQ%3D--e8bcb25993abf4f199420735256b123728e47f13">신고</a>
         </div>
       </div>
     </div>
@@ -1796,12 +1803,12 @@ NPL(부실채권) : 양도세도 없...
 </a>    </span>
     
   <div class="like_button_post_KmtB1my h-full px-2 py-1 border whitespace-nowrap rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40  ">
-    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNTg5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTc6MzUuNjUxWgY7AFQ%3D--3eda1dd9f83b8cc5e7072e688174a3ae92d88028"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNTg5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTQ6MjguMjQ1WgY7AFQ%3D--8d2e93725998def7692ade185c1dfd0ddbe97d7e"><button class="h-full whitespace-nowrap flex items-center" type="submit">
       <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 group-voted-by-me-base:text-purple-500 group-vote-now-base:animate-2-bounce"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
       <span class="font-light group-voted-by-me-base:text-purple-500">
         9
       </span>
-</button><input type="hidden" name="authenticity_token" value="91YoBzUKYbzWJPTbgrxkDhxsS6-i71qDDwt9lYa6UmXWK4vG_AP3xiRSXesGu2D9NCxw7XtNK0Uo0BOisTpWGA" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="w4vl_QHlhAi0JFPq6-fAkLGXuscsuKXVjO_19e2RAz7EZG3WNLqto4STuuP3MMUUcXnPcMvne5EHjAybZy1T2g" autocomplete="off"></form></div>
 
 
   </div>
@@ -1854,7 +1861,7 @@ NPL(부실채권) : 양도세도 없...
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjU5MzU1BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTY6MjEuMTM0WgY7AFQ%3D--72b5d9409427481c0dc41829d9520a1711211c4a">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjU5MzU1BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTA6MDIuMjM0WgY7AFQ%3D--108e85cb58a6f0faefb6e3041bc8f435f1514436">신고</a>
         </div>
       </div>
     </div>
@@ -1912,12 +1919,12 @@ NPL(부실채권) : 양도세도 없...
 </a>    </span>
     
   <div class="like_button_post_rDtpvZn h-full px-2 py-1 border whitespace-nowrap rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40  ">
-    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjU5MzU1BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTU6MjYuNDExWgY7AFQ%3D--0486836d9f783e5243c7d5b1cf487a90d0b5531b"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjU5MzU1BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTA6MDIuMjQxWgY7AFQ%3D--d283b06a4f1e6906dbabc267f62ff0ae33c6b38a"><button class="h-full whitespace-nowrap flex items-center" type="submit">
       <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 group-voted-by-me-base:text-purple-500 group-vote-now-base:animate-2-bounce"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
       <span class="font-light group-voted-by-me-base:text-purple-500">
         10
       </span>
-</button><input type="hidden" name="authenticity_token" value="Cbe-WHR_iqhCKsYsfc9SIvJEBzDYwlVuWY2wgWZPI-Hq6vuIj6xj02urtTqT6DBiB0J3q1vACui-3lr2J2mKQw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="eWyYnNftVby3dDJS8HHlDMzlD3Jx4JQBASu0bsaCkvY1pQiNDwxAwEL8utIxznqFOONIz4sXxa2vwNTNS9ixRA" autocomplete="off"></form></div>
 
 
   </div>
@@ -1959,7 +1966,7 @@ NPL(부실채권) : 양도세도 없...
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwODg2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTY6MjEuMTQ3WgY7AFQ%3D--f215b5bca2ac37bf84a9e12579e4c82bfb33fbda">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwODg2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTA6MDIuMjQ5WgY7AFQ%3D--9f1958119d7f752c17cf0014cad67b333217cfdf">신고</a>
         </div>
       </div>
     </div>
@@ -2021,16 +2028,16 @@ NPL(부실채권) : 양도세도 없...
     <span class="flex items-center flex-none px-2 py-1 border rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40">
       <a class="inline-block h-full whitespace-nowrap" href="/posts/o7tlrpk#reply">
           <svg class="inline-block h-3.5 w-3.5 text-gray-400 fill-current"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-article"></use></svg>
-          <span data-qa="children-count">7</span>
+          <span data-qa="children-count">8</span>
 </a>    </span>
     
   <div class="like_button_post_o7tlrpk h-full px-2 py-1 border whitespace-nowrap rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40  ">
-    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwODg2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTY6MzguMjE3WgY7AFQ%3D--a7cf6da829f8ed035195c9b26a9a71f555c67550"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwODg2BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTA6NDYuNTgxWgY7AFQ%3D--f1db777fe39086b0a3f252ea662623d880dd7bc9"><button class="h-full whitespace-nowrap flex items-center" type="submit">
       <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 group-voted-by-me-base:text-purple-500 group-vote-now-base:animate-2-bounce"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
       <span class="font-light group-voted-by-me-base:text-purple-500">
-        25
+        26
       </span>
-</button><input type="hidden" name="authenticity_token" value="CkFh6fyplvV_Vl2Xr5CTeeDimCd7tVfXVXigaJsx22JW2f7A0b9wFhIJCtz8z2Q_sYrkf7k5Wn-wpLb4SJk6Aw" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="E0e1jT52f0Pp-wE3mpPi9sXGmHqHbCvldT_VqG2J9sblHHvrX_P-ILtKf_9gHQbItWEOJNACaRtSkOWOFppEnA" autocomplete="off"></form></div>
 
 
   </div>
@@ -2039,11 +2046,11 @@ NPL(부실채권) : 양도세도 없...
   </div>]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오늘 생일이었습니다:)  슬픔+기쁨!]]></title>
-            <link>https://alook.so/posts/latO5je</link>
-            <guid>https://alook.so/posts/latO5je</guid>
-            <pubDate>Sat, 30 Jul 2022 16:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[<div id="post_latO5je" class="break-words min-w-0 bg-white post_latO5je" data-qa-post-id="260938">
+            <title><![CDATA[비 오는 날 마주친 행복들(feat.병원 가는 길)]]></title>
+            <link>https://alook.so/posts/6Mte6y2</link>
+            <guid>https://alook.so/posts/6Mte6y2</guid>
+            <pubDate>Sat, 30 Jul 2022 05:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[<div id="post_6Mte6y2" class="break-words min-w-0 bg-white post_6Mte6y2" data-qa-post-id="260497">
     
       <div class="flex items-center justify-between text-gray-900">
   <div class="flex-1 w-0 group-post-date-visible">
@@ -2072,14 +2079,14 @@ NPL(부실채권) : 양도세도 없...
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwOTM4BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTY6MjEuMTYxWgY7AFQ%3D--bffd33f9feb43f4722dd7aa03e42eab3e9a3e3d3">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNDk3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTA6MDIuMjc3WgY7AFQ%3D--fa5dc3976f545c9e621fa985a34b657d3bc9cd62">신고</a>
         </div>
       </div>
     </div>
   </div>
 
 </div>
-      <div class="mt-2 space-y-2 cursor-pointer" data-controller="box-link" data-box-link-url-value="/posts/latO5je">
+      <div class="mt-2 space-y-2 cursor-pointer" data-controller="box-link" data-box-link-url-value="/posts/6Mte6y2">
         <div class="group">
           <div class="mb-0.5 text-base font-medium text-gray-800 break-all md:hidden line-clamp-2 decoration-gray-800 underline-offset-1">
             <div class="hidden group-feed-event-main-topic-base:flex items-center justify-start text-purple-600 text-xxs mb-0.5">
@@ -2087,7 +2094,7 @@ NPL(부실채권) : 양도세도 없...
               <span>이 토픽에서 뜨는 글</span>
             </div>
             <p class="group-hover:underline group-hover:cursor-pointer" data-qa="post-title">
-              오늘 생일이었습니다:)&nbsp; 슬픔+기쁨!
+              비 오는 날 마주친 행복들(feat.병원 가는 길)
             </p>
           </div>
 
@@ -2099,30 +2106,23 @@ NPL(부실채권) : 양도세도 없...
                   <span>이 토픽에서 뜨는 글</span>
                 </div>
                 <p class="mb-1 text-base font-medium text-gray-800 break-all line-clamp-1 group-hover:underline group-hover:cursor-pointer decoration-gray-800 underline-offset-1" data-qa="post-title">
-                  오늘 생일이었습니다:)&nbsp; 슬픔+기쁨!
+                  비 오는 날 마주친 행복들(feat.병원 가는 길)
                 </p>
               </div>
               <h6 class="font-normal text-gray-500">
-    <a class="trix-content-post-partial" href="/posts/latO5je">
+    <a class="trix-content-post-partial" href="/posts/6Mte6y2">
       <div class="break-all trix-content md:group-feed-event-main-topic-base:line-clamp-2 group-post-body-line-clamp-base:line-clamp-2 line-clamp-3">
-          오늘은 제 생일이었습니다:) 아침에 글을 쓰며 슬쩍...축하받고 싶은 마음도 있었지만, 조금은 슬픈 생일이라 그 마음은 잠시 접어두고 하루를 마무리하며 글을 씁니다. 
+          태풍이 오고 있어요. 아침부터 굵은 빗방울이 내리더니 마치 하늘에 구멍이 뚫린 느낌입니다. 요 며칠간 목이 안 좋다 싶더니, 눈을 뜬 뒤부터 통증이 제법 심해 병원을 가기 위해 집을 나섰습니다. 비 오는 날의 운전은 위험하지만, 빗줄기가 생각보다 거세 결국 차를 타고 이동하였네요.
 
-왜 슬픈 생일이냐구요? 아픔+태풍 덕에 집에 갇혀있는 생일이라서요.....확진자 수가 어마어마한 이 시국에, 인후통 가진 상태로 다른 친구를 만나는 것도 민폐려니와 태풍이 온다는 데 함부로 나갈 수 없으니까요....아니었으면 친구 꼬셔서 카멜리아힐을 다녀오고 싶었습니다. 초록초록이들이 보고 싶은....간만에 가고싶은 곳이 생겼는데...... 
-
-오늘 병원에 다녀온 뒤에 쭉 약기운에 취해 있는 듯합니다. 정말 졸리네요. 근데 잠이 들려는 찰나에 걸려오는 전화들. 덕분에 오늘 낮에 살짝 졸다가 깨고 졸다가 깨며 보낸듯합니다ㅎㅎ&nbsp;
-
-어머니도 생일이라고 전화를 주셨네요.&nbsp;
+병원 인근 골목에 차를 세우고, 병원을 향해 걸어갑니다. 저 앞에서 한 엄마와 아이가 보이네요. 우산을 들고 나오지 못한 듯, 발만 동동 구르나 싶더니 엄마가 아이의 머리 위로 가방을 씌워줍니다. 그리고 아이 손을 꼭 잡고 달려가네요. 엄마는 세찬 비를 맞으면서도, 아이는 비를 맞추지 않으려 달려가는 모습에 순간 제 우산을 건네줄 뻔 했습니다. 그냥, 그 엄마의 모습이 너무 예뻐보여서요.
 
 
-"집에 비 안 들어왔니?"
-&nbsp;"응. 이번엔 괜찮아요. 옆에 물 고인건 이따 빼려구."
-&nbsp;"미역국은 먹었어?"
-&nbsp;"엄마가 어제 준 감자탕 먹는 중...
+병원 앞 횡단보도, 건너편에서 우산을 이상하게 쓴 한 남자분이 보입니다. 중간중간 우산 위로 머리를 꺼내시더라구요. 옆으로 걸어가는 모습을 보니 아이를 꼭 안고 계시네요. 아이가 비를 맞을까 꼭 안고, 우산을 ...
       </div>
 </a></h6>
             </div>
               <div class="w-32 ml-2 basis-1/4 md:basis-auto">
-                <img class="aspect-13/8 object-cover rounded border border-gray-200 h-14 sm:h-20 min-w-fit" data-qa="post-cover" loading="lazy" src="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMnl1Qmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--009d302f336569f935bb463d2088772c135e1261/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/birthday-gbe4f77afc_1920.jpg">
+                <img class="aspect-13/8 object-cover rounded border border-gray-200 h-14 sm:h-20 min-w-fit" data-qa="post-cover" loading="lazy" src="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeWlzQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--733ad8b181ddc45b7c56318fd8899a24ab858cf6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/corgi-gfa6da24fa_1920.jpg">
               </div>
           </div>
         </div>
@@ -2139,25 +2139,142 @@ NPL(부실채권) : 양도세도 없...
   </div>
   <div class="flex items-center space-x-2">
     <span class="flex items-center flex-none px-2 py-1 border rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40">
-      <a class="inline-block h-full whitespace-nowrap" href="/posts/latO5je#reply">
+      <a class="inline-block h-full whitespace-nowrap" href="/posts/6Mte6y2#reply">
           <svg class="inline-block h-3.5 w-3.5 text-gray-400 fill-current"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-article"></use></svg>
-          <span data-qa="children-count">23</span>
+          <span data-qa="children-count">26</span>
 </a>    </span>
     
-  <div class="like_button_post_latO5je h-full px-2 py-1 border whitespace-nowrap rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40  ">
-    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwOTM4BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTQ6MzkuMDM0WgY7AFQ%3D--1dd82b1ecda2a0154a8370b18d5cd8aea7a5e365"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <div class="like_button_post_6Mte6y2 h-full px-2 py-1 border whitespace-nowrap rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40  ">
+    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNDk3BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTQ6MDMuMDEwWgY7AFQ%3D--5cb4da5d5e1a8d567646ce8438dc229c6faf783c"><button class="h-full whitespace-nowrap flex items-center" type="submit">
       <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 group-voted-by-me-base:text-purple-500 group-vote-now-base:animate-2-bounce"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
       <span class="font-light group-voted-by-me-base:text-purple-500">
-        22
+        51
       </span>
-</button><input type="hidden" name="authenticity_token" value="LJwKQPZnRA4mvDa0J2DepxBKDExdx9meaXCN9SAu0w1LmhyvRetRQgpSUfXQ3nxfEnLUjDLAb0sQ3q4qJGEX4g" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="VwB4Z16ojEjCKp74mlCoaRjHJsLLsdLaP3mni7gyAtrMdkSKOffz3kaCNsBMKoyLl_bAGiyCOgi2-xG0SaWYRQ" autocomplete="off"></form></div>
 
 
   </div>
 </div>
       </div>
   </div>]]></content:encoded>
-            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMnl1Qmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--009d302f336569f935bb463d2088772c135e1261/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/birthday-gbe4f77afc_1920.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeWlzQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--733ad8b181ddc45b7c56318fd8899a24ab858cf6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--9e2ce9b4634fcfcbc951bda419cd2b10eaa9b5bf/corgi-gfa6da24fa_1920.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[결혼후 4년만에 처음 만나는 친구...]]></title>
+            <link>https://alook.so/posts/54twkJ0</link>
+            <guid>https://alook.so/posts/54twkJ0</guid>
+            <pubDate>Sat, 30 Jul 2022 20:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[<div id="post_54twkJ0" class="break-words min-w-0 bg-white post_54twkJ0" data-qa-post-id="260429">
+    
+      <div class="flex items-center justify-between text-gray-900">
+  <div class="flex-1 w-0 group-post-date-visible">
+      <div class="flex items-center space-x-1">
+    <div class="relative z-0 flex -space-x-3">
+        <a href="/users/4WtWwz"><img style="width: 20.0px; height: 20.0px;" class="inline rounded-full object-cover border border-gray-200 bg-white " onerror="this.onerror=null;this.src='https://alook.so/assets/icons/icon-solid-user-7eac5bc0e82de02349582eac9ce9eb63104851bcb1a099b6985ce52d281b575f.svg'" alt="이현웅" src="https://alook.so/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3p3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ce537bc9d12991236e307eeed78401e5a80d3571/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RW5KbGMybDZaVjkwYjE5bWFYUmJCMllJTkdVeFFBZzZER052Ym5abGNuUkpJZ2hxY0djR093WlVPZ3B6WVhabGNuc0lPZ3h4ZFdGc2FYUjVhVlU2Q25OMGNtbHdWRG9QWW1GamEyZHliM1Z1WkZzSWFRSC9hUUgvYVFILyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--777c11f252aabf9495aa6dae6e0fb0f90a514449/1610722084423-7.jpg" width="20.0px" height="20.0px"></a>
+    </div>
+    <div class="flex items-center font-medium text-gray-600 break-all text-xxs hover:underline decoration-gray-600 underline-offset-1">
+      <a href="/users/4WtWwz">이현웅</a>
+    </div>
+    <div class="items-center hidden group-post-date-visible-base:flex">
+      <span class="mr-1 text-xs text-gray-500">
+        ·
+      </span>
+      <div class="font-light text-gray-400 text-xxs">
+        2022/07/30
+      </div>
+    </div>
+  </div>
+
+  </div>
+    <div>
+    <div class="relative" data-controller="dropdown" aria-haspopup="true" aria-expanded="false">
+      <div data-qa="post-menu" data-action="click->dropdown#toggle click@window->dropdown#hide" role="button" data-dropdown-target="button" tabindex="0" class="inline-block select-none" aria-label="글 더보기 메뉴">
+        <svg class="self-center w-4 h-4 fill-current text-gray-300"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-kebab"></use></svg>
+      </div>
+      <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
+        <div class="overflow-hidden text-sm bg-white border rounded shadow">
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNDI5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTA6MDIuMjkyWgY7AFQ%3D--839a9859f07e02e053f9433b174e7f6838562611">신고</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+      <div class="mt-2 space-y-2 cursor-pointer" data-controller="box-link" data-box-link-url-value="/posts/54twkJ0">
+        <div class="group">
+          <div class="mb-0.5 text-base font-medium text-gray-800 break-all md:hidden line-clamp-2 decoration-gray-800 underline-offset-1">
+            <div class="hidden group-feed-event-main-topic-base:flex items-center justify-start text-purple-600 text-xxs mb-0.5">
+              <svg class="w-4 h-4 fill-current mr-0.5"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-up"></use></svg>
+              <span>이 토픽에서 뜨는 글</span>
+            </div>
+            <p class="group-hover:underline group-hover:cursor-pointer" data-qa="post-title">
+              결혼후 4년만에 처음 만나는 친구...
+            </p>
+          </div>
+
+          <div class="flex ">
+            <div class="flex-1">
+              <div class="hidden md:block">
+                <div class="hidden group-feed-event-main-topic-base:flex items-center justify-start text-purple-600 text-xxs mb-1.5">
+                  <svg class="w-4 h-4 fill-current mr-0.5"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-up"></use></svg>
+                  <span>이 토픽에서 뜨는 글</span>
+                </div>
+                <p class="mb-1 text-base font-medium text-gray-800 break-all line-clamp-1 group-hover:underline group-hover:cursor-pointer decoration-gray-800 underline-offset-1" data-qa="post-title">
+                  결혼후 4년만에 처음 만나는 친구...
+                </p>
+              </div>
+              <h6 class="font-normal text-gray-500">
+    <a class="trix-content-post-partial" href="/posts/54twkJ0">
+      <div class="break-all trix-content  group-post-body-line-clamp-base:line-clamp-2 line-clamp-3">
+          이번 휴가기간에는 정말 반가운 친구를 만나게 되었습니다.
+4년전 결혼한 친구인데 결혼후 아이도 생기고 육아 때문에...
+그리고 코로나 때문에 다음에보자 다음에보자&nbsp;
+좀 괜찮아 지면 보자 하고 미룬게 벌써 4년이 지났습니다.
+이번에는 아이를 부모님께 맡기고 부부가 같이 시간이 되어&nbsp;
+만나게 되었는데 너무 기분이 좋습니다.
+20살때 첫 홀서빙 알바를 하게 되면서 알게된 삼총사인&nbsp;
+친구들인데 20살 참 의미있는 시간을 함께 보낸친구들이라&nbsp;
+그런지 벌써 14년이 지난 시간동안 이렇게 관계를 이어오고 있습니다.
+이번에 만나면 또 얼마가 지나서야 보게될지 모르지만&nbsp;
+오래만에 추억얘기도 하면서 즐거운 시간을 보내려고합니다.
+여러분들도 즐거운 휴가기간에 오래만에 만나는 지인들과의&nbsp;
+소중한 시간을 통해서 스트레스 날려버리시기 바랄게요~^^
+      </div>
+</a></h6>
+            </div>
+          </div>
+        </div>
+        <div class="flex items-center text-xs font-light text-gray-500">
+  <div class="mr-2 group-post-topic-invisible-base:hidden">
+    <div class="group-post-topic-invisible-base:hidden">
+    <span class="inline-block">
+      <button type="button" class="flex items-center px-2 py-1 text-xs font-light text-gray-500 border border-gray-200 rounded lg:hover:bg-gray-100/40 active:bg-gray-100/40">
+        <a href="/topics/life">
+          라이프
+</a>      </button>
+    </span>
+</div>
+  </div>
+  <div class="flex items-center space-x-2">
+    <span class="flex items-center flex-none px-2 py-1 border rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40">
+      <a class="inline-block h-full whitespace-nowrap" href="/posts/54twkJ0#reply">
+          <svg class="inline-block h-3.5 w-3.5 text-gray-400 fill-current"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-article"></use></svg>
+          <span data-qa="children-count">21</span>
+</a>    </span>
+    
+  <div class="like_button_post_54twkJ0 h-full px-2 py-1 border whitespace-nowrap rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40  ">
+    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNDI5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTQ6MjguMjQ0WgY7AFQ%3D--c1e8551dd3af823549d55aceb94af1f208bbe335"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+      <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 group-voted-by-me-base:text-purple-500 group-vote-now-base:animate-2-bounce"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
+      <span class="font-light group-voted-by-me-base:text-purple-500">
+        45
+      </span>
+</button><input type="hidden" name="authenticity_token" value="_pAI9K0mU4b7M2M0UXdKM_QsD0ZKcUUXUOJHWIqOfqv5f4DfmHl6LcuEij1NoE-3NMJ68a0um1Pbgb42ADIuTw" autocomplete="off"></form></div>
+
+
+  </div>
+</div>
+      </div>
+  </div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[중쇄를 찍자!!!]]></title>
@@ -2193,7 +2310,7 @@ NPL(부실채권) : 양도세도 없...
       </div>
       <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
         <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwODg5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTY6MjEuMTc1WgY7AFQ%3D--a7a5ba8abac171f23c3c26b18c74cc2cdbbe2ab5">신고</a>
+            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwODg5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTA6MDIuMzA1WgY7AFQ%3D--2598f18b85e330418f8cad8ef43f314b3db4d14c">신고</a>
         </div>
       </div>
     </div>
@@ -2264,12 +2381,12 @@ NPL(부실채권) : 양도세도 없...
 </a>    </span>
     
   <div class="like_button_post_q1tpnma h-full px-2 py-1 border whitespace-nowrap rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40  ">
-    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwODg5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTc6MzUuNjk1WgY7AFQ%3D--19bfe75aa95a4e833aff52ceaa172f5fc77fab4d"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwODg5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjE6MTQ6MjguMjk3WgY7AFQ%3D--8404f21e45162e86e295c44e6b413940c00e2991"><button class="h-full whitespace-nowrap flex items-center" type="submit">
       <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 group-voted-by-me-base:text-purple-500 group-vote-now-base:animate-2-bounce"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
       <span class="font-light group-voted-by-me-base:text-purple-500">
         20
       </span>
-</button><input type="hidden" name="authenticity_token" value="krM5ly8L1CvJeCc3O9T-LFwe90TVK1xea7PiYrCn-JGzzppW5gJCUTsOjge_0_rfdF7MBgyJLZhMaIxVhyf87A" autocomplete="off"></form></div>
+</button><input type="hidden" name="authenticity_token" value="EJfEU9KQUwx_2botNXIzu-jPc07zbNzh-BEcHcPyFTUXeEx45896p09uUyQppTY_KCEG-RQzAqVzcuVzSU5F0Q" autocomplete="off"></form></div>
 
 
   </div>
@@ -2277,123 +2394,6 @@ NPL(부실채권) : 양도세도 없...
       </div>
   </div>]]></content:encoded>
             <enclosure url="https://alook.so/_c/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBemF1Qmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ac6a92577c2f5e12e78e948247549e6ab5175132/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJVUU1SEJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFLRUEya0NoQU02REdOdmJuWmxjblJKSWdocWNHY0dPd1pVT2dwellYWmxjbnNJT2d4eGRXRnNhWFI1YVZVNkNuTjBjbWx3VkRvUFltRmphMmR5YjNWdVpGc0lhUUgvYVFIL2FRSC8iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--30e3e181193c510a7143982f1b0e0b15d76d5735/%EC%98%A4%EB%8A%98%EC%9D%98%EC%9B%B9%ED%88%B0.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[결혼후 4년만에 처음 만나는 친구...]]></title>
-            <link>https://alook.so/posts/54twkJ0</link>
-            <guid>https://alook.so/posts/54twkJ0</guid>
-            <pubDate>Sat, 30 Jul 2022 20:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[<div id="post_54twkJ0" class="break-words min-w-0 bg-white post_54twkJ0" data-qa-post-id="260429">
-    
-      <div class="flex items-center justify-between text-gray-900">
-  <div class="flex-1 w-0 group-post-date-visible">
-      <div class="flex items-center space-x-1">
-    <div class="relative z-0 flex -space-x-3">
-        <a href="/users/4WtWwz"><img style="width: 20.0px; height: 20.0px;" class="inline rounded-full object-cover border border-gray-200 bg-white " onerror="this.onerror=null;this.src='https://alook.so/assets/icons/icon-solid-user-7eac5bc0e82de02349582eac9ce9eb63104851bcb1a099b6985ce52d281b575f.svg'" alt="이현웅" src="https://alook.so/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3p3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ce537bc9d12991236e307eeed78401e5a80d3571/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RW5KbGMybDZaVjkwYjE5bWFYUmJCMllJTkdVeFFBZzZER052Ym5abGNuUkpJZ2hxY0djR093WlVPZ3B6WVhabGNuc0lPZ3h4ZFdGc2FYUjVhVlU2Q25OMGNtbHdWRG9QWW1GamEyZHliM1Z1WkZzSWFRSC9hUUgvYVFILyIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--777c11f252aabf9495aa6dae6e0fb0f90a514449/1610722084423-7.jpg" width="20.0px" height="20.0px"></a>
-    </div>
-    <div class="flex items-center font-medium text-gray-600 break-all text-xxs hover:underline decoration-gray-600 underline-offset-1">
-      <a href="/users/4WtWwz">이현웅</a>
-    </div>
-    <div class="items-center hidden group-post-date-visible-base:flex">
-      <span class="mr-1 text-xs text-gray-500">
-        ·
-      </span>
-      <div class="font-light text-gray-400 text-xxs">
-        2022/07/30
-      </div>
-    </div>
-  </div>
-
-  </div>
-    <div>
-    <div class="relative" data-controller="dropdown" aria-haspopup="true" aria-expanded="false">
-      <div data-qa="post-menu" data-action="click->dropdown#toggle click@window->dropdown#hide" role="button" data-dropdown-target="button" tabindex="0" class="inline-block select-none" aria-label="글 더보기 메뉴">
-        <svg class="self-center w-4 h-4 fill-current text-gray-300"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-kebab"></use></svg>
-      </div>
-      <div data-qa="post-menu-dropdown" data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2">
-        <div class="overflow-hidden text-sm bg-white border rounded shadow">
-            <a data-turbo-frame="application_modal" data-action="click->dropdown#toggle" class="block px-6 py-2 text-gray-900 bg-white hover:bg-gray-100 whitespace-nowrap" href="/reports/new?reportable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNDI5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTY6MjEuMTkwWgY7AFQ%3D--7ee7a04987146bae60bd764753a77c6ca0ceef47">신고</a>
-        </div>
-      </div>
-    </div>
-  </div>
-
-</div>
-      <div class="mt-2 space-y-2 cursor-pointer" data-controller="box-link" data-box-link-url-value="/posts/54twkJ0">
-        <div class="group">
-          <div class="mb-0.5 text-base font-medium text-gray-800 break-all md:hidden line-clamp-2 decoration-gray-800 underline-offset-1">
-            <div class="hidden group-feed-event-main-topic-base:flex items-center justify-start text-purple-600 text-xxs mb-0.5">
-              <svg class="w-4 h-4 fill-current mr-0.5"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-up"></use></svg>
-              <span>이 토픽에서 뜨는 글</span>
-            </div>
-            <p class="group-hover:underline group-hover:cursor-pointer" data-qa="post-title">
-              결혼후 4년만에 처음 만나는 친구...
-            </p>
-          </div>
-
-          <div class="flex ">
-            <div class="flex-1">
-              <div class="hidden md:block">
-                <div class="hidden group-feed-event-main-topic-base:flex items-center justify-start text-purple-600 text-xxs mb-1.5">
-                  <svg class="w-4 h-4 fill-current mr-0.5"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-up"></use></svg>
-                  <span>이 토픽에서 뜨는 글</span>
-                </div>
-                <p class="mb-1 text-base font-medium text-gray-800 break-all line-clamp-1 group-hover:underline group-hover:cursor-pointer decoration-gray-800 underline-offset-1" data-qa="post-title">
-                  결혼후 4년만에 처음 만나는 친구...
-                </p>
-              </div>
-              <h6 class="font-normal text-gray-500">
-    <a class="trix-content-post-partial" href="/posts/54twkJ0">
-      <div class="break-all trix-content  group-post-body-line-clamp-base:line-clamp-2 line-clamp-3">
-          이번 휴가기간에는 정말 반가운 친구를 만나게 되었습니다.
-4년전 결혼한 친구인데 결혼후 아이도 생기고 육아 때문에...
-그리고 코로나 때문에 다음에보자 다음에보자&nbsp;
-좀 괜찮아 지면 보자 하고 미룬게 벌써 4년이 지났습니다.
-이번에는 아이를 부모님께 맡기고 부부가 같이 시간이 되어&nbsp;
-만나게 되었는데 너무 기분이 좋습니다.
-20살때 첫 홀서빙 알바를 하게 되면서 알게된 삼총사인&nbsp;
-친구들인데 20살 참 의미있는 시간을 함께 보낸친구들이라&nbsp;
-그런지 벌써 14년이 지난 시간동안 이렇게 관계를 이어오고 있습니다.
-이번에 만나면 또 얼마가 지나서야 보게될지 모르지만&nbsp;
-오래만에 추억얘기도 하면서 즐거운 시간을 보내려고합니다.
-여러분들도 즐거운 휴가기간에 오래만에 만나는 지인들과의&nbsp;
-소중한 시간을 통해서 스트레스 날려버리시기 바랄게요~^^
-      </div>
-</a></h6>
-            </div>
-          </div>
-        </div>
-        <div class="flex items-center text-xs font-light text-gray-500">
-  <div class="mr-2 group-post-topic-invisible-base:hidden">
-    <div class="group-post-topic-invisible-base:hidden">
-    <span class="inline-block">
-      <button type="button" class="flex items-center px-2 py-1 text-xs font-light text-gray-500 border border-gray-200 rounded lg:hover:bg-gray-100/40 active:bg-gray-100/40">
-        <a href="/topics/life">
-          라이프
-</a>      </button>
-    </span>
-</div>
-  </div>
-  <div class="flex items-center space-x-2">
-    <span class="flex items-center flex-none px-2 py-1 border rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40">
-      <a class="inline-block h-full whitespace-nowrap" href="/posts/54twkJ0#reply">
-          <svg class="inline-block h-3.5 w-3.5 text-gray-400 fill-current"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-article"></use></svg>
-          <span data-qa="children-count">21</span>
-</a>    </span>
-    
-  <div class="like_button_post_54twkJ0 h-full px-2 py-1 border whitespace-nowrap rounded-xl lg:hover:bg-gray-100/40 active:bg-gray-100/40  ">
-    <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIdZ2lkOi8vYWxvb2sxL1Bvc3QvMjYwNDI5BjsAVEkiDHB1cnBvc2UGOwBUSSIMZGVmYXVsdAY7AFRJIg9leHBpcmVzX2F0BjsAVEkiHTIwMjItMDgtMzBUMjA6MTQ6MzkuMDYzWgY7AFQ%3D--883d04406610ea407dabfee683560391e902f3b6"><button class="h-full whitespace-nowrap flex items-center" type="submit">
-      <svg class="inline-block mr-0.5 w-3.5 h-3.5 fill-current text-gray-400 group-voted-by-me-base:text-purple-500 group-vote-now-base:animate-2-bounce"><use href="https://alook.so/assets/icons-d29b39e9885b8fd4f075298900bbfc1084dae86ec014a26e8c940b78f1d0581d.svg#icons-icon-line-recommend"></use></svg>
-      <span class="font-light group-voted-by-me-base:text-purple-500">
-        45
-      </span>
-</button><input type="hidden" name="authenticity_token" value="TfUOaPzSgEeohJSDhZhaEDCQhCnRXRKwpP0cgY15LDsq8xiHT16VC4Rq88JyJvjoMqhc6b5apGXdUz9eiTbo1A" autocomplete="off"></form></div>
-
-
-  </div>
-</div>
-      </div>
-  </div>]]></content:encoded>
         </item>
     </channel>
 </rss>
